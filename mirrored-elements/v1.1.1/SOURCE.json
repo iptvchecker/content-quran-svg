@@ -1,0 +1,4236 @@
+{
+  "publisher": "quran-ws/quran-svg-elements",
+  "version": "v1.1.1",
+  "retrievedDate": "2026-10-08",
+  "files": [
+    {
+      "name": "index/by-page/001.json",
+      "bytes": 6893,
+      "sha256": "455af00c56636da80f5f93ccb6734b6340cf8eb8a38f83e995e4f6a590bae45e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/001.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/002.json",
+      "bytes": 8263,
+      "sha256": "cc598ab1629173f8cd1132cdbf550d1d8f0b7476d3af13b3cd330d992a35eec6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/002.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/003.json",
+      "bytes": 27804,
+      "sha256": "3994a76a5bc4ec78db8e7af3782a895b23477090df16bc69cc1a6456397aabb5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/003.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/004.json",
+      "bytes": 29246,
+      "sha256": "a8bf996b3a92a3470aacb89b501bcdf3a7bc4c7e4ba8a3511ddff83f88edd8f7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/004.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/005.json",
+      "bytes": 26998,
+      "sha256": "f083bc411fe23368050aef58127ae7275d85714405f0df865e3117e3f681395f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/005.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/006.json",
+      "bytes": 30290,
+      "sha256": "662fbb5164da80c14e6bca45f0a41e227f1df28434fabccaa79f3ee08ad23b9b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/006.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/007.json",
+      "bytes": 28988,
+      "sha256": "7882d645c5b47b338c0794b9e29943cc154446c94d9ecaa17fadec64f419fb3b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/007.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/008.json",
+      "bytes": 26923,
+      "sha256": "c2fa58c957aae99b6cdc94bf585eba9f8eb293a296964a590a72ebb54db6bb11",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/008.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/009.json",
+      "bytes": 27501,
+      "sha256": "9a921b6bb135623b20907cc85f870c6f48f81f1b68e80f44f239d39b35225ab0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/009.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/010.json",
+      "bytes": 29116,
+      "sha256": "e4c93d73f9f48043fc9470aed2b989fbae9352c35c76ebf5426841b6f460960a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/010.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/011.json",
+      "bytes": 30442,
+      "sha256": "3d754e8279f5a960e1012bdc9b18ec0fc417ebc71c721a24615f1974151b3220",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/011.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/012.json",
+      "bytes": 26305,
+      "sha256": "34ce743432d7f2541d1f26642ae2a0cef92883aa2cd2be278c5a17ebb4d05aaa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/012.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/013.json",
+      "bytes": 25997,
+      "sha256": "863e73606f35d641b0978de8b2a0f226000f08655aa065b69f15016f6a31de90",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/013.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/014.json",
+      "bytes": 26351,
+      "sha256": "fa41d5537d46092d6c850e0dcb298bbdfc6706ce066d46652473c4e16c069edb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/014.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/015.json",
+      "bytes": 26914,
+      "sha256": "e76736be03d7576ad9a851de043939df8cd1598874f989d89926cee908a3c2d8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/015.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/016.json",
+      "bytes": 27079,
+      "sha256": "7ecd227ee4d05474065d1c93e836042b932185e5e37bf32d85b0882cf0c3123d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/016.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/017.json",
+      "bytes": 29562,
+      "sha256": "f43918c402c54bddb8be22ae9c1fba1de6fa27a402294e53007967636d4198ac",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/017.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/018.json",
+      "bytes": 28973,
+      "sha256": "b8aa63a1f8966cb22eafe90d6ea0a95625afb66db2b78f35bf057fd3369b06d9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/018.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/019.json",
+      "bytes": 32186,
+      "sha256": "5eb6f4134b9a60090cce434d31df0ef35b03fb378a5b6905db32ead4e13f86f7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/019.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/020.json",
+      "bytes": 29175,
+      "sha256": "4228494f3c632c3038e7751ead2c3c06c53bb1fe3e6dd8cb2d0513ee70a2310c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/020.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/021.json",
+      "bytes": 29260,
+      "sha256": "32528af13b77985444ac75fa4806983dafa822675147467f9d27888ed1d90dba",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/021.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/022.json",
+      "bytes": 29106,
+      "sha256": "ca6e0e99729efa8ab514da0855e4a7c4d7042e854122da4f8b29068f2216847a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/022.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/023.json",
+      "bytes": 27278,
+      "sha256": "da8798d0223ba820f4489d716526b66dde82d65fe9907aa6e69244ebddead825",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/023.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/024.json",
+      "bytes": 28977,
+      "sha256": "84e4f9023cfaac6e58c950f74f6ec7ec7b4fa779f6069183fc50edbbc51a5a27",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/024.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/025.json",
+      "bytes": 29869,
+      "sha256": "5602919423c3925d8f099251bc9793c06fb1b82ddd719786ac2ed42495401606",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/025.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/026.json",
+      "bytes": 29008,
+      "sha256": "06038acbd8a5f6281869bf68ecc8d6dabbe3d0246bb91de84dc754a87d95de26",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/026.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/027.json",
+      "bytes": 28767,
+      "sha256": "4c39856fd3d3e2ba8cd8ffc8502b76424b584afe4e4fca1ead25b5ad1e0b7ee7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/027.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/028.json",
+      "bytes": 26836,
+      "sha256": "003013723d5ed05576258c5588842c6796dfdba0cf331a8279c6a550594623fb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/028.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/029.json",
+      "bytes": 27378,
+      "sha256": "546d437bbe5ebfbdf372f8c4466f7bf4d7b8ba17225e152ec7a2a8a67e6f1267",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/029.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/030.json",
+      "bytes": 34434,
+      "sha256": "269aef62c2dd9830b8210daa6c0b50b097a9519902265363161f7ad2c6f481ce",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/030.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/031.json",
+      "bytes": 24728,
+      "sha256": "7c57f2cac717dc10bf4169b8632eec2079f3d6443b2d84c675d49b45f487b504",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/031.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/032.json",
+      "bytes": 26985,
+      "sha256": "c6836efce79b5dbaca0573252798c773c20de914871084c9f26f212e6b90beb7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/032.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/033.json",
+      "bytes": 31184,
+      "sha256": "4f8143f470b1f8a8465f7dd6ff2b5ea66097de74f7727cc655fe4e988ead7d3e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/033.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/034.json",
+      "bytes": 27507,
+      "sha256": "562b4caaa39ae1466d46d6fb2015bc74d5e451d7a6497d7299b0c2e0c61f0f1d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/034.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/035.json",
+      "bytes": 27899,
+      "sha256": "c0e47986624a46667f6db453a4867751dd6f995fc8db46417337299bcf7ee4a4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/035.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/036.json",
+      "bytes": 32970,
+      "sha256": "f31296e144ea23d9df3adb2b65bdc366d768dacc6e260976680c70ac68c3bea3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/036.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/037.json",
+      "bytes": 31909,
+      "sha256": "feb5dc00c890b43c95ce11f6902da490118c74117cb5ced5f08b827ce216545c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/037.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/038.json",
+      "bytes": 29372,
+      "sha256": "91040633d9aef2215d613ed0c21ccc377e196dff508814f1068a273f2600e328",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/038.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/039.json",
+      "bytes": 25644,
+      "sha256": "13b6d90d1250e0413a1abe3b032f152c83fb205b9243752cc9622c73ebb33618",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/039.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/040.json",
+      "bytes": 27367,
+      "sha256": "f0bd65d33da968377b29ef9ab216dd63dbc48698f05aa7c09cf7eca3264f9f1e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/040.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/041.json",
+      "bytes": 24624,
+      "sha256": "3693123220a9de1c8d22ba57b568dd4a2dead158578453cf92dd67845b9ace86",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/041.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/042.json",
+      "bytes": 31763,
+      "sha256": "d1a969ed85464cf801c46eb37215ed7a1c904fef440229f965b7bcaa91508517",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/042.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/043.json",
+      "bytes": 29006,
+      "sha256": "fc90b8226c286acc1c5fd7a66e824745e23a3310d36ee28b26d138a52eed996b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/043.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/044.json",
+      "bytes": 29664,
+      "sha256": "7f2e5e4134c5280b202b93e3407b2f1862b9b5cefa1a9a5274316a383ff2f45c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/044.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/045.json",
+      "bytes": 26789,
+      "sha256": "0f0de9e186f0a3ad2dcfa7388403bb4e079c04957df80f4040519c5a8c28ea76",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/045.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/046.json",
+      "bytes": 24274,
+      "sha256": "24fae8b5936d133a767acd06529e47c75e550deb9c67579f73f02f1d9ddfae8f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/046.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/047.json",
+      "bytes": 29263,
+      "sha256": "79a791b4ccb9eba8ac9ff8b6fea3e4610a0baf5a27f7ae00ba016ac2a6845182",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/047.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/048.json",
+      "bytes": 28469,
+      "sha256": "f58153db501ceae324a3a85cd7386001c457a0dedc0c9806e15cc012176c4d65",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/048.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/049.json",
+      "bytes": 29640,
+      "sha256": "adfc9c818d25225b2b8741b0cced4d1e9439c1dc0ee56cc616c34b04190e7f09",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/049.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/050.json",
+      "bytes": 28671,
+      "sha256": "9129bb316ef7396f0be9239f5436f4b9348113e019c7fbfdaa07b8c6b9aa6147",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/050.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/051.json",
+      "bytes": 25886,
+      "sha256": "437c2a2dd3f4e53466d8d7a49963119df588542ae0b8473bdae8f63347e04a05",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/051.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/052.json",
+      "bytes": 26022,
+      "sha256": "8c1a8e66baa78e72e931d226c2a1941520b9fbd30e98590e7f66806314d64aba",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/052.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/053.json",
+      "bytes": 30881,
+      "sha256": "65de0618ebf4d54dbcc573c0dd6c3ad5391cb4df698b0ec7963dfa3397433a03",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/053.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/054.json",
+      "bytes": 31309,
+      "sha256": "f1499e785ecb3c7db04a92c6a38168d360664d7f565b628b7a943c94ec6b7113",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/054.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/055.json",
+      "bytes": 28601,
+      "sha256": "ff14ee4bc0e0308ce8714b8c990e01310e8cb603958dee98cd334445cda430ee",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/055.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/056.json",
+      "bytes": 27726,
+      "sha256": "e6c046ba59c2d6a2cc630eb8813f6299e5f5df63b70f72c7e967af83369fd3a9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/056.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/057.json",
+      "bytes": 27120,
+      "sha256": "f75137cae9e4779f56a6cdb14f10f7c408bf07c7f8f0309052c404a4d5fcef13",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/057.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/058.json",
+      "bytes": 29248,
+      "sha256": "ba88bb7ec499dc3993909d8cd8f9acc088cef31c08e73c60358de4c6af7c1e67",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/058.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/059.json",
+      "bytes": 30104,
+      "sha256": "ccba35ed8b1d3df285fd1ee7e4d150f99a3069365982e0eafecc6fdd9431c001",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/059.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/060.json",
+      "bytes": 27238,
+      "sha256": "36a40d68144ec65416f46162f83a33b0e534708cd80b33c76a8246c20def793c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/060.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/061.json",
+      "bytes": 27653,
+      "sha256": "593ea8ca71ef3d933a843716ab66124bae60437c54efd3b9cd8d6aac4994c57d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/061.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/062.json",
+      "bytes": 30392,
+      "sha256": "7c6834d3585b355d0991ca169b49f7132c4d7740f8bed88a6b456827fdedd303",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/062.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/063.json",
+      "bytes": 29076,
+      "sha256": "b4034fe41ee49e50ebabf8ed058ad1972d0f938b0abb26c0a223c9da13a05f4a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/063.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/064.json",
+      "bytes": 26560,
+      "sha256": "87182d8e94656038fe48c34b753e00223f039c9e597d3b89287426f54733d085",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/064.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/065.json",
+      "bytes": 28804,
+      "sha256": "9a412f32bfcf353cc443727f9da0c7c4df15626e7965f5468a27eafebd4f7ac8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/065.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/066.json",
+      "bytes": 28243,
+      "sha256": "4f03cd89a8fa9dbe78b93b62a85c017b61341cb31f0751d08597c8958d052e9e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/066.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/067.json",
+      "bytes": 25746,
+      "sha256": "b4148cd6481b96153080a25482c85542621cc18dbdbea40e1597e678ff58f516",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/067.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/068.json",
+      "bytes": 29128,
+      "sha256": "dc7b70797db07a5f474bceaa61425740e7ef8838aefdd981c94f0b1977c1c9d2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/068.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/069.json",
+      "bytes": 22716,
+      "sha256": "4d520120aaaec5daed6fad32130d9e301c1460943b8a2dc2705b1e2792132fc9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/069.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/070.json",
+      "bytes": 31647,
+      "sha256": "578f89f97fc4549befdd7de8952f13270c1864a87edc0d15422f0f617c21633c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/070.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/071.json",
+      "bytes": 30622,
+      "sha256": "20004eb7962f14bce486b522282e1dec3efb4fad3a720b90fbb08d90dd543d15",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/071.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/072.json",
+      "bytes": 29573,
+      "sha256": "c708c15cf555a5b1f3ef9859406a126343586eaaff08fe2aa182ab222b96b562",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/072.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/073.json",
+      "bytes": 31364,
+      "sha256": "df4efd4fe9cabd24d5b3efc26e3dde0c22720bb334f46f8783da3c84f02eb58c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/073.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/074.json",
+      "bytes": 26194,
+      "sha256": "33ee9902d427f02d1372ab1da9fd7a60843c3b9df3288f5ea99678c9785fdb94",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/074.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/075.json",
+      "bytes": 28422,
+      "sha256": "59e857eedb882dc7606834b554b5da322f057e56b942acf1779c599e5f26349f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/075.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/076.json",
+      "bytes": 26096,
+      "sha256": "ab6a39b915d8eb730ddd4c10b105718836e79a2575f3b96b5f1ec65dcc22eabf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/076.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/077.json",
+      "bytes": 30799,
+      "sha256": "b31aec4155545e4c14b7fc5b7feb6f3cbc1bc33e41bd255a65cc40926e7ab12d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/077.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/078.json",
+      "bytes": 28712,
+      "sha256": "3e873a280952a5b5f76b1c87f66b4e015ec2e3a15e5aca16ca9918ffd39776dd",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/078.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/079.json",
+      "bytes": 25038,
+      "sha256": "dc0ee7ee1326f60838b7d5a80ee95a3bbb1cbbe83bbe66992191f2b63b68b6a8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/079.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/080.json",
+      "bytes": 25601,
+      "sha256": "aa67676137bf75d85184cf499a05e1e06d6773ad51edc93dfac9eec6078f2f21",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/080.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/081.json",
+      "bytes": 22229,
+      "sha256": "f00df4632b364b04da0017d3ae8383623a03e505321ca6a49f9ef73f412c6136",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/081.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/082.json",
+      "bytes": 25361,
+      "sha256": "3dd746ce49d7453e5d5d44a14b29cae0f51d07788b34e4e61986918a1fc16e30",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/082.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/083.json",
+      "bytes": 25226,
+      "sha256": "1fab15e755a536951e4acbf75b6e22c80dc78c953d0e85042746e4456574f223",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/083.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/084.json",
+      "bytes": 24518,
+      "sha256": "b3301d947f5bda0cbb6f5362d8a327e3628164fde4bb8dc4cbedb53162f0e518",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/084.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/085.json",
+      "bytes": 29547,
+      "sha256": "138c11a0ece9b11bca43f29b3793a018811a807bba85070fb646690762c8d986",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/085.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/086.json",
+      "bytes": 30326,
+      "sha256": "008df7c6fcb069ba918a6107f11859bd43e65ecbbc7471124b0705cbab17938c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/086.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/087.json",
+      "bytes": 31347,
+      "sha256": "99ef9d3cc1187667bdb3a77ed6c1efee6d43efb3c0df069cddf79fd2864387e0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/087.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/088.json",
+      "bytes": 25926,
+      "sha256": "7068945059f76778560d7f35a820e8a7309d03050ccc365d26d59d7034dc7f12",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/088.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/089.json",
+      "bytes": 27886,
+      "sha256": "2dcb810f7f53c2a5f8242c5b8fcec51dfe9bfb3b06efe3d84189983917b89038",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/089.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/090.json",
+      "bytes": 33332,
+      "sha256": "be72ba9dfba460d85a7681a21599e09a2a2b1894ec6f8d1527605ab672b02bc3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/090.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/091.json",
+      "bytes": 29792,
+      "sha256": "8b8d932ee25acf81d5cf6bb21397b138e1654a414ec00ba01335e33b81b1b3bb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/091.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/092.json",
+      "bytes": 29912,
+      "sha256": "ccd5dc6ffa6e5c0c048f2e10fc3ee1eddc3a6b2b1cb7cf2a56d28c0cf84c25de",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/092.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/093.json",
+      "bytes": 25113,
+      "sha256": "90d75a24ba280be2ece770e74229625bd216844cd6f9b3749dde972bcea760a7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/093.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/094.json",
+      "bytes": 32030,
+      "sha256": "47f52fd9e7e2ebbdbe7f75517a4ee1e63f27ba55611e02cab15628b6721761c2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/094.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/095.json",
+      "bytes": 26839,
+      "sha256": "03e8b9bcf664c486e31b5779f8f8b6c15d63526a678f2611b247f497eb644f0a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/095.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/096.json",
+      "bytes": 28379,
+      "sha256": "6785e0668bbe735e28fd4e1802fa383012d3046e51e67faa05b3656d585c347d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/096.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/097.json",
+      "bytes": 26392,
+      "sha256": "96a3b90917622fd5ff341558845ed2bfad6b717f7f3a6609aa0360c545a6237b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/097.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/098.json",
+      "bytes": 27545,
+      "sha256": "e6d86389d0393c2500ac456fa68eb4b9b588c4386ebd8f439cc401b4ca90c1d5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/098.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/099.json",
+      "bytes": 28413,
+      "sha256": "1fd025628aa7ef36fe1aedbeb2ce9dd3e9ba56f2e2f10e4b8edb40b8c2beed1f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/099.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/100.json",
+      "bytes": 30642,
+      "sha256": "f09d18dc0c85498f39a823db583155a87a580460ede00993ac13638f138cb3d3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/100.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/101.json",
+      "bytes": 28554,
+      "sha256": "c0185f57d1ea332f7c83ba10820d6684e469fe6bd736bcb64b81c94fe916129d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/101.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/102.json",
+      "bytes": 29044,
+      "sha256": "5cb3155b2972e0fe0b99fe9fc26592801f364fcde791cd2a9ad15833960124bb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/102.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/103.json",
+      "bytes": 30795,
+      "sha256": "946bc1d393a684cee877e6c86f60ed31d00216df6be311e7826d21d8aa55bc93",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/103.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/104.json",
+      "bytes": 27662,
+      "sha256": "c843bb7397d69deac1098a2ad78a0b60a7c14341e2f50f8749dc0cd81ae24a47",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/104.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/105.json",
+      "bytes": 27531,
+      "sha256": "46a6fd0292858142f558f4dd3daba3b4cedcf6a89c104264e277529fdb461cb9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/105.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/106.json",
+      "bytes": 27254,
+      "sha256": "aed070e2e960aac03c42676332846782be582b6795aba24c1dd5ab887ec20b1e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/106.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/107.json",
+      "bytes": 29904,
+      "sha256": "aac8aee9fabe02b0617445da7dde179fcce3cabf8e7a10f85a658e710b846701",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/107.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/108.json",
+      "bytes": 25755,
+      "sha256": "a3881cf3b3346925e94870800b68088876c581f5ea17e643c70ad0b4a13265fd",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/108.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/109.json",
+      "bytes": 24164,
+      "sha256": "67e1b634e13d77b24c9c6e7e5dfdca80ca78e3235c7f5dfba0f25531c8157448",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/109.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/110.json",
+      "bytes": 23456,
+      "sha256": "8ffae0df9b93be81a6e919967333dee7e7ee8c62a791d3baae7dbd9371e0ecda",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/110.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/111.json",
+      "bytes": 28971,
+      "sha256": "f74777649d68d8107943a1e9d0c95dbda5f66ac6a1309c85021da566b1fa314b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/111.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/112.json",
+      "bytes": 28238,
+      "sha256": "50c07943a5d75b1ad34575472e292c21fc1e7cefbbe44e3ca010b773f73a100e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/112.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/113.json",
+      "bytes": 26818,
+      "sha256": "f066f4dd4bcdb5fb52cf8952cd8cfdc245ff84bd2fd103f130b0b3b1b9a8b736",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/113.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/114.json",
+      "bytes": 27009,
+      "sha256": "540f7b4a6fa4ef997114a364b9b840890d40415a29111c02e3ab7fcc2eca554a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/114.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/115.json",
+      "bytes": 25245,
+      "sha256": "feb82f764f7db3eb7ed5323e996ca005c1e256e8a03b53b846ee28c2e6ac5085",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/115.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/116.json",
+      "bytes": 29889,
+      "sha256": "3a3affdea92099a5e44e87b843afebe89b8517c194a00e36b7fb8f6b9b33da17",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/116.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/117.json",
+      "bytes": 33102,
+      "sha256": "bde58a880ae373cf4314309c182ec91854f4d7f432735a93046647545e777fdb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/117.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/118.json",
+      "bytes": 32616,
+      "sha256": "c8e96cf6e31c423c0bd5b2c925d2d62853d0e328d2e45a7036b58ed7c3ed4a60",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/118.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/119.json",
+      "bytes": 28476,
+      "sha256": "2f1a74aa5be3ba0ccb8a6b677773ca725bbc1d6197f34dea29fe560b5a6c0e92",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/119.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/120.json",
+      "bytes": 31902,
+      "sha256": "de45f467f5621278ebd7735544a1e877bd039761a2a37dbe98ff0cdda5d65c88",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/120.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/121.json",
+      "bytes": 23873,
+      "sha256": "2e138f7239f27774c9596e36fae9d9d9fa6dcbeb06184b1c431b60459594de3e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/121.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/122.json",
+      "bytes": 28099,
+      "sha256": "964b65a27894e15de6be7c0c9d63a9ffad4248762054ad844e037052ed4c2398",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/122.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/123.json",
+      "bytes": 28744,
+      "sha256": "69d3ec55d51c9db14f1b12b2d6c2a9c9b0b048ef1134f63bfa76ca83496f3bbb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/123.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/124.json",
+      "bytes": 29890,
+      "sha256": "515ed9c0884d047d01a83e5623c0510d3a253a820b383fddc10142bcc35a0a51",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/124.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/125.json",
+      "bytes": 31468,
+      "sha256": "63692cc0006c7d3c73f284661dee6db2a1a2c410513390d881dee0435ff10f62",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/125.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/126.json",
+      "bytes": 28056,
+      "sha256": "35edadd0f7231e85b2c177fbe0a643e94a4aff4dde00fcd1467d43042c8b1884",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/126.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/127.json",
+      "bytes": 33919,
+      "sha256": "c21928bee4fc3ba62227052ed2bb978a6b0e98f8d83a02e36604f6bea4c013a5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/127.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/128.json",
+      "bytes": 26643,
+      "sha256": "8263431bc2ae7015cd4baaf7b005540e326dd11e42e982355fe3c5e386c9441d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/128.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/129.json",
+      "bytes": 28210,
+      "sha256": "bce89ea1bf80dd088afdce6a14962e01c12d9284f443d288424c41cbb3a678ee",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/129.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/130.json",
+      "bytes": 33977,
+      "sha256": "e7f0c83f6db1208790b74a129729307ef298e7d3cf3e33c87a1f4bda1b54e51a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/130.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/131.json",
+      "bytes": 31883,
+      "sha256": "3c012be695ccb6df7a5b0acbe4f1d3ea5c48acbd4e3abe6c3feb47def7f4b3f0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/131.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/132.json",
+      "bytes": 30257,
+      "sha256": "d3df4e76837a38c4417a3df51bf19a733eedc62ebd22cb9f010025b7d4947894",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/132.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/133.json",
+      "bytes": 29991,
+      "sha256": "3d2be925ee49054698fba28c2bec8db1fb7a2526c03e6ecd17957773a09827d9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/133.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/134.json",
+      "bytes": 29157,
+      "sha256": "82bcfa867bfbaf58234a1110330de51346b2e978f3c1b846d957a1f3c9add9f0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/134.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/135.json",
+      "bytes": 30802,
+      "sha256": "0242fb327e7df2aff5a994078d46d374ce381a51f80e9b22ff082654d436566f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/135.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/136.json",
+      "bytes": 27640,
+      "sha256": "8d4d7a8a3a4edcd4dca17a3a4b2673dbe25285d58034468e076fff08517764ab",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/136.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/137.json",
+      "bytes": 28453,
+      "sha256": "b90e2e50054bee771fecf85245c78f6d3f3502912f593a86f249c1aab3f6f06f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/137.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/138.json",
+      "bytes": 26749,
+      "sha256": "bae024ea0726fdf5705452ad707baeabb2177fe9b6b4b21682e3e7db6a701840",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/138.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/139.json",
+      "bytes": 31268,
+      "sha256": "47e175f925e1e9821729cb27dbc4ec40743b3f681f0ba1cc36b1ef5e1f60bfc3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/139.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/140.json",
+      "bytes": 29773,
+      "sha256": "5667c6573d4fdb5d933dd381d2a48c3877eb443f81493c124eed5822dbffe9a6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/140.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/141.json",
+      "bytes": 29190,
+      "sha256": "c6020d7601cfd89f6a79c4e68403a4c9c69c82d5630d04328221541907cb5b0b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/141.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/142.json",
+      "bytes": 28736,
+      "sha256": "3e27937bbb27a32c3c8ba8f3cf716d05ad64260305bf14fbaeef212c0c56c0fe",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/142.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/143.json",
+      "bytes": 28718,
+      "sha256": "35e692ad06832fd805306d5c4bc7f0cfdc6f7f8002e3d63136e32a69423a33ce",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/143.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/144.json",
+      "bytes": 26095,
+      "sha256": "1d3a1b4fed6e75306732389760b7d5c2203faf1c74ffdd5494a19b6678d27687",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/144.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/145.json",
+      "bytes": 24875,
+      "sha256": "ee8e2856a5dc878e8b693c19fa5c5abfe5b5f13800f9d2ef97f435358f7340e3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/145.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/146.json",
+      "bytes": 25706,
+      "sha256": "8950d0af58f29510d58f3313901a5ee8c83458cd62716abaf185fb4ccf6bc6fa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/146.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/147.json",
+      "bytes": 28299,
+      "sha256": "67445e9f1625618c84db23c7c7f4277bacd5783e16df4aafd2593794832d4f22",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/147.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/148.json",
+      "bytes": 27909,
+      "sha256": "507126ada4ec91210231e3368eae789e7e01d4db0541dc9c5d36b3a474db762a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/148.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/149.json",
+      "bytes": 28013,
+      "sha256": "964efb675d93d0dbfbe95084053011ae21a4ec7ab9846cbe90a7f5331ba1a00a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/149.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/150.json",
+      "bytes": 33346,
+      "sha256": "84ca44b122f2b0f8cfa75d73ebca1110be6fc4aaed2066fcd781c68bb747fa3c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/150.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/151.json",
+      "bytes": 24022,
+      "sha256": "5e4681e1a3eae54cd7fea7d6dbf4e3df79c924f8d2142b1e52f5f571b6c9284c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/151.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/152.json",
+      "bytes": 32016,
+      "sha256": "d85b0f4bb82d14988360139f1448e105cf39d8692b9488703f04464c2160107c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/152.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/153.json",
+      "bytes": 29582,
+      "sha256": "bd5ad2e14536f9f1d107c0ba9a077fb088a4ac7e9793f93e63530b7fa219d824",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/153.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/154.json",
+      "bytes": 31972,
+      "sha256": "7fed3b4d4ab8cdfd8e74cda0664d6a817da6507af45d3c7f4ca1ee3f75123d81",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/154.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/155.json",
+      "bytes": 30065,
+      "sha256": "ca17a309e82bbc93437523dc795f44f5100d5e72a4eeb8a253dc03adb7f2ad92",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/155.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/156.json",
+      "bytes": 30384,
+      "sha256": "2678566bd3713ff0f0187eedba46038dd855f201f005818032d575eec4d148cc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/156.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/157.json",
+      "bytes": 28829,
+      "sha256": "7051934e0160ca931cdae047dae59cde51fb4bfcb1d4865639d81b301b37e313",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/157.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/158.json",
+      "bytes": 28767,
+      "sha256": "12595e6fbf82081a6d6cd84e137196397a62a0872b911fd07cebe6a2c898d131",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/158.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/159.json",
+      "bytes": 26869,
+      "sha256": "c36c5058ac04760cb2e3bcded9b5e917f6e91fcc2f4edcf0fb3e6728c620c421",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/159.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/160.json",
+      "bytes": 25331,
+      "sha256": "71b878cf2de3d8c66596dd5143725348a09ff590fb2feb5e9aea2dd5e5d73ab4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/160.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/161.json",
+      "bytes": 23874,
+      "sha256": "318ba37b30a17eac34a1c50d76688e74e90bf4f8023494af31ed35597ad3b125",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/161.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/162.json",
+      "bytes": 30604,
+      "sha256": "156672f4f148b2bd9f63f7ba44c288d0418c1e4f5b8b5aabd9fef760e1a56cb8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/162.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/163.json",
+      "bytes": 26810,
+      "sha256": "d6b8ffcbfa4c3481e6153b4f6b464b283d0385b410b102e03fb46efd3ad9e3c2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/163.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/164.json",
+      "bytes": 28033,
+      "sha256": "ecfc013ede7377db3d28b3a3fd76a5c1916b0a0fa3402154bf98756f068cfcd8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/164.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/165.json",
+      "bytes": 27732,
+      "sha256": "f41c777a4daba142ca61358f680e5db60b008a9bb828823a5815d9e1972128f9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/165.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/166.json",
+      "bytes": 27041,
+      "sha256": "b9c8518b807b343defe851e6b0868246dee73744849d702335dc04487546fc1e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/166.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/167.json",
+      "bytes": 27504,
+      "sha256": "f0fd3d15cb8b87a7ad1c7e498551b50dd6e626929b5bd24568b12073d2bbdfea",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/167.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/168.json",
+      "bytes": 27246,
+      "sha256": "252a7e023ff20f26bd09db05da0c976a47ddb9b182d6cbd5368edc5b5b6a8a6d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/168.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/169.json",
+      "bytes": 29818,
+      "sha256": "9cbfef4c68fb744d44a20624395a16a2eaf182c895fe76372783f3a77abf3159",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/169.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/170.json",
+      "bytes": 25496,
+      "sha256": "373d5f2e7b42a9e15a59d08c674f323c052b6f1e9a3d9ef0a4ce9a41b5f6cf81",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/170.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/171.json",
+      "bytes": 24056,
+      "sha256": "32646e87ed9e96cc8527e8e38ec5dd252f2bc6ec8a1a4f2d4128b2925ebcee58",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/171.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/172.json",
+      "bytes": 29241,
+      "sha256": "ee2e96af191e11c7227e315b989d6eb595ade978430e1bbb371b6a0e72cd49cb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/172.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/173.json",
+      "bytes": 28371,
+      "sha256": "ae172dd2caa773bcd12b553e4008831dd5e3ea5bdefacc2ad8fb435d75d5e86b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/173.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/174.json",
+      "bytes": 31574,
+      "sha256": "403dec69f0e3fc4946ee37781cd57220cd47a8e6bbb76b17cf082943c3770d0b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/174.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/175.json",
+      "bytes": 29510,
+      "sha256": "1491cba610c0ba76c9cc520aab73be7fdf0c759041ed1b11678c4563b3ce55af",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/175.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/176.json",
+      "bytes": 27703,
+      "sha256": "3f4cf21b813827b58be6ee277810692b1baaf20bf8893a3e83f4503b2849dff7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/176.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/177.json",
+      "bytes": 23357,
+      "sha256": "c9cfd5ceef293ca7778c8336a494dc3e8af8f2b7f0aab8d53d53c49b1f1bd642",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/177.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/178.json",
+      "bytes": 27380,
+      "sha256": "4db7f17db85c715846cb6b715ee6d72c3e0b558933caa6ab546ddef4ada635a1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/178.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/179.json",
+      "bytes": 27277,
+      "sha256": "b94ccd2909a63b5d42f0898e8b6dd3a1fdc0e07351bcc1328cde0f707c5843f4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/179.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/180.json",
+      "bytes": 27115,
+      "sha256": "84b79c44c8a07b66d2464725dc1c485c6a5c1d9fb9d2f8819f4ac92b7f8cc3d5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/180.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/181.json",
+      "bytes": 25371,
+      "sha256": "09fd79ffdc170668ac9dceb39de9d158589c8daeb1a7b64e3dd548b47b01ed72",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/181.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/182.json",
+      "bytes": 26433,
+      "sha256": "b6b293276e4017b9e9659f325bfd7500c98c27519c51d8a096e2b8b19cf45b5c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/182.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/183.json",
+      "bytes": 26985,
+      "sha256": "5b49c853b162a6ee17b3049971f4577bbd7710aa380fe1b147222b5521ebc72d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/183.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/184.json",
+      "bytes": 29020,
+      "sha256": "41d2c1cee07d95b00cbaef8651ce8183ca556b8e1e79119cb2a028e04ed04c07",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/184.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/185.json",
+      "bytes": 28876,
+      "sha256": "23fc40d0061295841c60cbce07fd69de509cca195404459da9a3327f09b717c7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/185.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/186.json",
+      "bytes": 29727,
+      "sha256": "db06883aab411efce8d70b1d1024f6ffb4314615512a7b1e6576077a4ab399dd",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/186.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/187.json",
+      "bytes": 26754,
+      "sha256": "a7195d631415dc2610c82e68feab9540ef368a762a6b930aada72add4be78cb1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/187.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/188.json",
+      "bytes": 25108,
+      "sha256": "6b5aa803cd5a3b6b2d7c5041f91deab0b621ba9c5a817cc31a2ea106f7897d26",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/188.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/189.json",
+      "bytes": 28151,
+      "sha256": "788d751167ca602d9798f5f7579c54b25bfa5320ac9ae424e386cef4cccce8e8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/189.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/190.json",
+      "bytes": 25054,
+      "sha256": "b2912b1a8d6bebbf5e0b0cdeefc51ff78bcfd5e5e4048f4d960a69cca3fbca2f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/190.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/191.json",
+      "bytes": 24876,
+      "sha256": "12c1c9ea684580947476740288aa596dffbaf2928674616d0fe4eac3b4624620",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/191.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/192.json",
+      "bytes": 24849,
+      "sha256": "d12370f7bee2be243dee044cbf204b8af8eaeec577607d7a07138f0505daec52",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/192.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/193.json",
+      "bytes": 25740,
+      "sha256": "e434964ce10ac9783ca9928384b95fcec689ec0a4529e099c8407c88724f9767",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/193.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/194.json",
+      "bytes": 25179,
+      "sha256": "abb52249e8ecf11726c4fe524bf84ce9998c18ba9ea8cd5a777c13bd6fddb92f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/194.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/195.json",
+      "bytes": 25343,
+      "sha256": "d8bf2a0fe0a147e9efa3801e1831cdfb6fae82395b6693761d2cfeaebbf04de1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/195.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/196.json",
+      "bytes": 26832,
+      "sha256": "0d80f0c2ed4c592dee40bbb48e65fb9417dcd887efd20d2ce7d41c9a2b77c8a5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/196.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/197.json",
+      "bytes": 24489,
+      "sha256": "1891d31e3328afe5a1dce14d66e65a4726c830bd40a2ac5b5b52446381ab6cca",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/197.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/198.json",
+      "bytes": 24390,
+      "sha256": "811185467e0e1a6786d2d0e63e4b78e9eb1d444d41e5b8c0b2d0378437a7e53b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/198.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/199.json",
+      "bytes": 27371,
+      "sha256": "3ff303a633caab1536108e1182e3ba2c37cfa8a10ada6cd67085f89232099c67",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/199.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/200.json",
+      "bytes": 30086,
+      "sha256": "da1fe34ffb28ccb6713bb5dd17f773a1b39ee8e5346e1911b47e7a62a2a144d8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/200.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/201.json",
+      "bytes": 26941,
+      "sha256": "115d4fb4f58c5caafba971f8fad1775011d698c8e5f8e79716a071f85b44a89a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/201.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/202.json",
+      "bytes": 26769,
+      "sha256": "9afce3f11e8ce543d9315fd16e3ba662eb87caa6c0f4389ffcc98cf99bde163d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/202.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/203.json",
+      "bytes": 28038,
+      "sha256": "91667f295950be0f9831b477ff11e6ca3d99f2ccb64c36967d0b37e9124f272e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/203.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/204.json",
+      "bytes": 27859,
+      "sha256": "982f5d4f38c31394c878dcbb54f89c2ea556ef90e4492d278613cec4431fef02",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/204.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/205.json",
+      "bytes": 26459,
+      "sha256": "d509c3e05b24db3e1e1c8431cf4a8c76d8221b86a58c55df9dbe6deec10f1989",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/205.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/206.json",
+      "bytes": 28628,
+      "sha256": "d284cf9dafd57f9bc9b745577f625668407578c873fbaf7a9f42f65a1b338208",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/206.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/207.json",
+      "bytes": 24556,
+      "sha256": "aa3cca471f5e3745b11fc009e4b0aca24635158814a1f53cb5427889e358361e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/207.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/208.json",
+      "bytes": 27252,
+      "sha256": "21ad86d2fed63fee94f2f1385925f241d0788af3780f57720a802f7cbb9d5705",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/208.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/209.json",
+      "bytes": 27350,
+      "sha256": "3e1a679cc480a4e4a1f767de3cde654f0f058215fb21ea1b73bb7617198d2ce9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/209.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/210.json",
+      "bytes": 28661,
+      "sha256": "9487bcdb95a80e5d8bf3ac6e82fb7e47f057753faff530d1931385eef0d6efc3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/210.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/211.json",
+      "bytes": 31303,
+      "sha256": "ba0bec9d1720da0dc02afa6470283ea7768c76c419c63e4948d4b40075d7b3d5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/211.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/212.json",
+      "bytes": 30095,
+      "sha256": "f335b379abaff2edffbe640d3119d9c2781f7bf319dcb90d836db03080629dfc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/212.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/213.json",
+      "bytes": 33699,
+      "sha256": "18d6271e4ca8317056798202a55847f108cf97dba8a2936f71c9bec9d92a97f1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/213.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/214.json",
+      "bytes": 31240,
+      "sha256": "c9ead8c5e0e10788d5030ca46fd47f03b71452d996cc2ed6cb44b13365838e3a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/214.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/215.json",
+      "bytes": 31410,
+      "sha256": "d66f69450bacee1c609a70a319ba7f638374bda82c19dc87976fa827aa0f9ad7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/215.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/216.json",
+      "bytes": 27170,
+      "sha256": "007941d09e9aa6a1df6726bc128c9736b2af66e01ad1b806d662994bae77e44b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/216.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/217.json",
+      "bytes": 30829,
+      "sha256": "113c5bb93a66d70e321df5b6c61d544715046149aa0b3ff2b1838d9c1c9257a0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/217.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/218.json",
+      "bytes": 29727,
+      "sha256": "6d29ddc9ebdadac5504431cf724fb0330562bae782f116a8f7e762c73288a627",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/218.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/219.json",
+      "bytes": 28902,
+      "sha256": "c53103a0bd49a8b9532789f763e1dc2aed2654ae076809e7c3665f263aa149b1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/219.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/220.json",
+      "bytes": 30470,
+      "sha256": "289ba5f777fa63d3c34bb69eacbf064741e58b2167199f3262ecf5bbe98e11eb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/220.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/221.json",
+      "bytes": 27640,
+      "sha256": "000fda3bf0573fcb62804da2b4dac807e1c26ec93902ffe3ce4dfdb321809c0e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/221.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/222.json",
+      "bytes": 28260,
+      "sha256": "2f570382c1b358c9ce29debd39707100094f49cd99af75e0a0a0eb0d4cabf796",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/222.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/223.json",
+      "bytes": 29834,
+      "sha256": "037f893a04c9bb114f0d01de2156e47cbf2d7b38c662e1a311748dc1d3c66b58",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/223.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/224.json",
+      "bytes": 29203,
+      "sha256": "6198630565124ad6deb2d687535ad47660a56bebea4af96a9f9eb1c1678f4ff8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/224.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/225.json",
+      "bytes": 30916,
+      "sha256": "95242ddb38fe4871ffd2503c44df40df672d3090a3718194a69da0e0af1ac7c9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/225.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/226.json",
+      "bytes": 30166,
+      "sha256": "2b12d72c52e15e93b62c0fb92084670a478d6de4aae50708f1904829ab112c41",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/226.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/227.json",
+      "bytes": 30249,
+      "sha256": "738f6117bff406b7b4093eb90b1b4d244e71a623c391a0acaf6c77054d2321a2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/227.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/228.json",
+      "bytes": 33199,
+      "sha256": "1358780e3359ab1f638d5c4583f812d6a76fc2ab2d016dbcf3d64ce95f39be01",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/228.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/229.json",
+      "bytes": 28444,
+      "sha256": "7d07f364847e4203c5c919caaf1e04cb64d25c40755b8a641e54e557e2bbcc26",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/229.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/230.json",
+      "bytes": 31885,
+      "sha256": "ce6c80a6b7e5fcceda39d287bf18e568dca814cacc4c7a05ab897461572fee08",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/230.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/231.json",
+      "bytes": 27681,
+      "sha256": "257d9674142cab8effc990530b3e1038fb40e2d82ae31b9974213cf3502c8798",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/231.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/232.json",
+      "bytes": 27965,
+      "sha256": "d3bd1a68585a5b9b326ebbda9bfaeb2b5f564afa8b0710a609a7f9e1a45f4cf5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/232.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/233.json",
+      "bytes": 29739,
+      "sha256": "cecf426519775dd1aff749e8e6e9c41a64f8d6be0ff4c439a0eac59bbcae9140",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/233.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/234.json",
+      "bytes": 29156,
+      "sha256": "24c56bd8b2a67ded7980d9361255cc4e3a82127352cbba5af7d16968e253ca96",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/234.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/235.json",
+      "bytes": 24977,
+      "sha256": "5049a1274c6f2370bc9df12d7693280599fd589de3f6f184d379acb19a6cfb10",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/235.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/236.json",
+      "bytes": 28866,
+      "sha256": "89fee7a263c50c8b0b21934693ae180f6cd41109dd119a49ba4e0b259720c422",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/236.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/237.json",
+      "bytes": 27526,
+      "sha256": "3d9fa13cf29a2d54eccb1d0edc59cd9381c370dcdf347539bea9cc0a3cf53f91",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/237.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/238.json",
+      "bytes": 28905,
+      "sha256": "d25a07cc5eba25f05f9e718df0f92878902615abd48a1a6e910ea1c3dafadbb5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/238.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/239.json",
+      "bytes": 31367,
+      "sha256": "2446b48ca7914e37ab08cab4ef7c7219a0c1d9fac3c13bdd374cfe2606f7bf8a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/239.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/240.json",
+      "bytes": 28134,
+      "sha256": "298c736459bf9534fb510713f233b2a5d3a613ea93711011086bbf79d875bb26",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/240.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/241.json",
+      "bytes": 31295,
+      "sha256": "8a1b0b3c48cfdbe3173fcdd04e2b20f816608afbb7bfc11c91c46d027e0ecfdf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/241.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/242.json",
+      "bytes": 29381,
+      "sha256": "21a6c7f75bdea996b89a15e652cbecdde9796b673a45abe65d6e87172c173131",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/242.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/243.json",
+      "bytes": 30061,
+      "sha256": "a2d9cbdc74937a7d8775ec8ff65875ce503ada402af60c2d98a76169701f2519",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/243.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/244.json",
+      "bytes": 28631,
+      "sha256": "21cf725067285be8287a61c82a1bccc047092b04ff1127bba961c4bca83a62de",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/244.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/245.json",
+      "bytes": 28674,
+      "sha256": "07bff2425a9e7423263318aa25d6a47ac597e75b949e7cf2186a639021406e51",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/245.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/246.json",
+      "bytes": 27126,
+      "sha256": "4438642d8c16f3a2815cc4033a04bb6d95455eabfa1484fa2d94158743b795aa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/246.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/247.json",
+      "bytes": 30071,
+      "sha256": "6f13022d5d9211bb7075f2c83f03a34e16ce61bac95e3475bcf24c9860dd381e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/247.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/248.json",
+      "bytes": 28695,
+      "sha256": "b09dfb5079215563740d68ad455fdfc5c3eb5e3f42ab270d5f959d967bc2e5cf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/248.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/249.json",
+      "bytes": 25766,
+      "sha256": "e7c3d4c637161c6eb91f156358f2117059c926c40e604bb4e6468837fcff7d63",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/249.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/250.json",
+      "bytes": 28648,
+      "sha256": "ed6fb8a9efb7f5e105b3c2f9e1e2791ac6ec0691e14dbbc8b68632817bc7cbb5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/250.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/251.json",
+      "bytes": 33450,
+      "sha256": "21889bc9067093f5faaf9bc5d4f2e3672683b4e5b46164026843d9660a8229ee",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/251.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/252.json",
+      "bytes": 32137,
+      "sha256": "fcf074e2466ce82a915914e4440c071b290f8fb3ec4e2727e441bc31ad839e89",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/252.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/253.json",
+      "bytes": 32796,
+      "sha256": "aa9326032b5e73c4236b88d6b47d206cde0937093544a18e94c9264f057433e2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/253.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/254.json",
+      "bytes": 30620,
+      "sha256": "2a6c4d554a2c6a33b95f84d69ba28c72f8a11718534b0d2ab930eeeef95bd318",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/254.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/255.json",
+      "bytes": 22071,
+      "sha256": "0c97f0730fabb00e8343cebe5892ad5a7cc47905e6620927564c729973ab398b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/255.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/256.json",
+      "bytes": 26462,
+      "sha256": "429f82353604e817eef19e538f88afb6606ed185d027bcf220a1322b42654442",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/256.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/257.json",
+      "bytes": 26919,
+      "sha256": "f82b205b3060c066f71290b59c76f9c8df07041f356af91ed40af527db9d83f9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/257.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/258.json",
+      "bytes": 28269,
+      "sha256": "c59c84f5ec9cdf2d30a7a43e00c0669b74263d17b19a0ff3f36e8b9f380b3e5b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/258.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/259.json",
+      "bytes": 27908,
+      "sha256": "13453a518e634b92b128bd7189f38803ed89db47de1f4a0a91d8520c476335ec",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/259.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/260.json",
+      "bytes": 28455,
+      "sha256": "d0b189eba0da6333be80ee97ad3e8a7ed0918283c10125d4eadea5a840081532",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/260.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/261.json",
+      "bytes": 26158,
+      "sha256": "7ad854bf594cac99b1027eaa4444175e197d0b25ff85dfdbf612cbadae9e146a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/261.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/262.json",
+      "bytes": 24213,
+      "sha256": "4324c7ea8fc1418b8fd0bc3eb8193e8340c7f3c053ed55b51333e682a2a4854c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/262.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/263.json",
+      "bytes": 28387,
+      "sha256": "66705fb0d2c9aa8fefcf9983732b7b9b17d927f85175bf9e1c9dc8eae4c82534",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/263.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/264.json",
+      "bytes": 27636,
+      "sha256": "db56014666a7b1c5f183a1b0b3518c473bd20795ad0e19728a5613c22474efc1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/264.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/265.json",
+      "bytes": 27397,
+      "sha256": "8494412832bd612786eee9144357f193bdb7feb057a71e792da04d207a776b76",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/265.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/266.json",
+      "bytes": 27303,
+      "sha256": "4266a62aacc724a3545a5777ca81060a496e6038647ba18c80e5f468161f8fa6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/266.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/267.json",
+      "bytes": 22717,
+      "sha256": "ad9af762f23010e9a57c6617ccfc39bd0d83aff7585fab7d69c8d92b00ef0346",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/267.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/268.json",
+      "bytes": 24786,
+      "sha256": "362c706da4e1d7d2e9507a6c94b5771fac9efec75ec18311edcfa83e973a0556",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/268.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/269.json",
+      "bytes": 27365,
+      "sha256": "0469c56114b97c1ee7b2a91b7aec2808133d7de5f050ac84d53cd208a14996e2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/269.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/270.json",
+      "bytes": 28522,
+      "sha256": "0f36ca835d64c55c0d4db14f6450f25a0220fcb5dd2fcd15a987108af442b0d8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/270.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/271.json",
+      "bytes": 29416,
+      "sha256": "e91f5a6ecd219285eec1790eaf1350f1a731fcc73dc36eb27e448ee221187f82",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/271.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/272.json",
+      "bytes": 30806,
+      "sha256": "bfdfac815e914de7941e466b064aa415800c7aae4f4dbc3edcbfc642ba0931ef",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/272.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/273.json",
+      "bytes": 30150,
+      "sha256": "701a5dd38c9b06f9ecadcd26be5e8d2bdfb661ebe8a2bcde43e96bb223f0e0dc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/273.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/274.json",
+      "bytes": 32300,
+      "sha256": "fd1234faf3e473017540abe5355033966f66eb3dd1d6345bbd481a52d4202495",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/274.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/275.json",
+      "bytes": 28805,
+      "sha256": "6dc2a24ed7d4ed30d3764a230e54c6161ca1694c239f8860fff29b6be694a9d7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/275.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/276.json",
+      "bytes": 26175,
+      "sha256": "5ed19129524f2b854219540b52a616a1f2799031aa169ff82d1923178ef00e64",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/276.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/277.json",
+      "bytes": 27077,
+      "sha256": "e4b44e043de00ac9d70a236f0c078f55fbb23f26232f23df14200d41100b8ffc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/277.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/278.json",
+      "bytes": 27422,
+      "sha256": "69f104afffcdfb97509dd0cc86a824cc929611561a1482ea247352071457421f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/278.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/279.json",
+      "bytes": 24947,
+      "sha256": "01b3bbe441c25f9ed5d3ef7a3ca3f2b459125858fa0579cbee260e700af04392",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/279.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/280.json",
+      "bytes": 27606,
+      "sha256": "8a5c26c2becf5016440fc61c531139ee5ed0b11d18f3537f8ae36c19c5f3ee20",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/280.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/281.json",
+      "bytes": 28922,
+      "sha256": "69b17d743c0dc8e6495ea97af00c87c48190ed9781e5b6601e1cdc731d5c5988",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/281.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/282.json",
+      "bytes": 23721,
+      "sha256": "244af5f90e4b2ace078a1a48540da5d2b39ab1c15f337e7bc51637286c10389e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/282.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/283.json",
+      "bytes": 30273,
+      "sha256": "b7b25beedb97e10f158f9ee51d88be7d0aa24f00b0e57fa950fccf86bcea59fd",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/283.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/284.json",
+      "bytes": 28727,
+      "sha256": "52697e8a6a484869cc9525d1d8e487b527e1bc20af9902621a2ba2102b161754",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/284.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/285.json",
+      "bytes": 31411,
+      "sha256": "6cf50e2d2f6438b0d54cc2916713f5b8366437abdaf9d4085ee480fe3c5aeec1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/285.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/286.json",
+      "bytes": 32490,
+      "sha256": "031401ad2ed9fdf2379a05ec2422f42e4e2842cdca573785aca2a01ad7d71cbe",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/286.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/287.json",
+      "bytes": 29285,
+      "sha256": "0f770f6692f5aeee49f0751dcd19d962b1db6d951328cdfff3917cee33e417eb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/287.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/288.json",
+      "bytes": 28055,
+      "sha256": "4d0f11c52fea4357adedbc818aebd969bdeb2b7e349957f94c313c9c189924fa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/288.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/289.json",
+      "bytes": 28963,
+      "sha256": "2010e5d381e0be7a03fbeeaf383953132f7d55ed9c8a09bf5770c1d2dbb4a5b8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/289.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/290.json",
+      "bytes": 29543,
+      "sha256": "6c15483da725b24cff3187025b349389c81c049daa9a403c57fac99de56fda13",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/290.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/291.json",
+      "bytes": 30284,
+      "sha256": "761007384e465e2a3f042b931efbfadab934ccc829fdcb9328f1c85516d2d457",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/291.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/292.json",
+      "bytes": 29814,
+      "sha256": "6acaa78ad06f257a30d3cc48e080276b6c7aaeaec4bce0096603075002cc9354",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/292.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/293.json",
+      "bytes": 28069,
+      "sha256": "e553e92029a5acbb08ac4868c1b5cedc73b3b4e5f4de4a0029a2218e2f6b8e37",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/293.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/294.json",
+      "bytes": 29103,
+      "sha256": "e5d2a210b7748066d534c7678257ddcea1b088991a67ebb38f2d338acf2ff415",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/294.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/295.json",
+      "bytes": 28011,
+      "sha256": "9e9bb4d3271e9d7304ed8ac370f580acb9604cf13dd1c299955ab726bbc0b419",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/295.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/296.json",
+      "bytes": 29420,
+      "sha256": "fa14f7c7247f280f5b4d420fdc909f9e0acb7f0324d4f2610e117bc6be0a3c8f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/296.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/297.json",
+      "bytes": 30225,
+      "sha256": "34d7257dd1de38200baf3a205dd881d5f66f3cc418329214dc4e8ae52304da2e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/297.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/298.json",
+      "bytes": 32572,
+      "sha256": "9313e602fe36a1727a0d97754a36dcebc9a1be72de2d9699e1184c0deae899c8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/298.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/299.json",
+      "bytes": 29002,
+      "sha256": "a12223d7a5cd044fc4c01962529bdb22b758d8e924597fae0cc97f308afa93a4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/299.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/300.json",
+      "bytes": 29087,
+      "sha256": "e3c067259a39c6fd822e2bb387cca9dbda5861715e9c8b713ea3e3d426ac6e59",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/300.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/301.json",
+      "bytes": 31763,
+      "sha256": "3bf05b1af4b0e1dfe118d78b67ac0a3fe288efa8ad22ad1d57567693c6588bb1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/301.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/302.json",
+      "bytes": 30171,
+      "sha256": "fdef40919375bcb81c504440d6fc7e2443cb0ab46d0469512bc8941d135748aa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/302.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/303.json",
+      "bytes": 34195,
+      "sha256": "256cefe6a7963c1aa33eecffb99a4b8d5bd87665b9b1d503983462a6a29db32e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/303.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/304.json",
+      "bytes": 33838,
+      "sha256": "2df8b143794a568b72514854e1ac202a19e5e2c2fbf862cd88fee68fc11bfea6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/304.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/305.json",
+      "bytes": 23320,
+      "sha256": "7b58b35219bd112755315e698339a838c7c7b5a6c9a6e9914ed885d330a9c4ec",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/305.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/306.json",
+      "bytes": 27939,
+      "sha256": "6698c376ef0e528d3440faceea00681d48b1ac8ed6c6e5d3fe4ceb6198acc27a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/306.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/307.json",
+      "bytes": 29957,
+      "sha256": "a7d236dffe5d4f51fbb77ccfc11dff9c74a6691cd8146ec422e9b8ce7fdbe68d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/307.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/308.json",
+      "bytes": 31366,
+      "sha256": "1ffe9692e7f5c1d12a4622ae8d698cd03cfae12f20fcf40d9cc9f3c6a73fb72f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/308.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/309.json",
+      "bytes": 32138,
+      "sha256": "d1a26e5d997153e4fda111737814212f8721ad29cc4e36ebb7d7c8a9b11187aa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/309.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/310.json",
+      "bytes": 29846,
+      "sha256": "59387c0d7963733ebfdd84ba89306b7893e6c7875100c43acd6351f9c7d99baa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/310.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/311.json",
+      "bytes": 27585,
+      "sha256": "1c509d7ab71725a77008ce96e0585715aa463d7ef5acb70f332c5185c506b4f7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/311.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/312.json",
+      "bytes": 24908,
+      "sha256": "1a705e48f0fc78f59b91257b616de23cb83d8896a8d06b66a3f6a9c7bd1b94fc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/312.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/313.json",
+      "bytes": 28759,
+      "sha256": "64edf765be742606c808f7909ceabb28a814091bf10df149ad4c0de1200f8aab",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/313.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/314.json",
+      "bytes": 32485,
+      "sha256": "a0b98a94e25491159a40483628bdd6fb134895633262488386f28d1373ea59c8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/314.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/315.json",
+      "bytes": 28903,
+      "sha256": "5b60cd2f2bd0db58666a7fd00fafbad09aa547be8c2846ee6ea60d8e3d8bcf2a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/315.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/316.json",
+      "bytes": 32952,
+      "sha256": "0465b4a1ec61a04a6548a1cb396ecee3621fb239d13be5bbc8d7a24c4fa0607d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/316.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/317.json",
+      "bytes": 29690,
+      "sha256": "38e16fc5dcf0dc33e8af0faab62ca6de5aa4d378eba873f7f6fba5c75ef7de91",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/317.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/318.json",
+      "bytes": 29686,
+      "sha256": "58cf866957bee658610c1fcb601001f77b641ab6ba0c4c99c2e961ad4e6e4d3c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/318.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/319.json",
+      "bytes": 30304,
+      "sha256": "fe6914a8e3af91f546e67809aa094aec8ec4a9c714ca4f879f8cb5a33d1d7c74",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/319.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/320.json",
+      "bytes": 29159,
+      "sha256": "f638fa33d1b76f4a0fe75d08885adefc2b1c94b0f3fbb970bdd6ee20643fbe1e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/320.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/321.json",
+      "bytes": 31058,
+      "sha256": "3e61aa084d9c0c47c7276de2d0dc375f60622d7d12a62687fefc1cc66c162d97",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/321.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/322.json",
+      "bytes": 23097,
+      "sha256": "439cf27db001bcdc7dcbaa242c8299c43043f20a95151d5d5e18cf0c9a10315f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/322.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/323.json",
+      "bytes": 29967,
+      "sha256": "002823d39aadde2a019b58db1f748590df9068df9e123f7c54410da392468587",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/323.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/324.json",
+      "bytes": 28022,
+      "sha256": "dc926a8ff567e2db304c605f79df9cdad61acf8697b57c972292447adf50fe68",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/324.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/325.json",
+      "bytes": 25403,
+      "sha256": "3dacfe12d3041bc1a4e5352e3d8d50e9dba8387977ea40e3a7211e1e30ad1301",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/325.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/326.json",
+      "bytes": 27659,
+      "sha256": "44309729e46cbe9854c824ce478b2bcbe33b591ead83570a35aa24529eaa3d76",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/326.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/327.json",
+      "bytes": 26145,
+      "sha256": "01d795ae3188da51b1422010393eace780386dbc692330a6d84f5239cf2b82bf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/327.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/328.json",
+      "bytes": 25788,
+      "sha256": "41f6b8b8400c6053be656b31f828425748a8a4749a489aafcb8f2ff3b89ec3dd",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/328.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/329.json",
+      "bytes": 24798,
+      "sha256": "8ee8f772a62dbc792b1000d60d04acdbc3da36d46c9696ccf39d115374e61b87",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/329.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/330.json",
+      "bytes": 23931,
+      "sha256": "bbe881b13e71fabcb4465d959f22c0198e9383ed9687fc917f482d7279d99465",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/330.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/331.json",
+      "bytes": 24207,
+      "sha256": "9135137e7fec69c39bfb79b40801297ed534e8e959661f2844c2705be1a7600d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/331.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/332.json",
+      "bytes": 26395,
+      "sha256": "8e71b748861c7878dc1a38c0f84622b1eb7fecb911f32502ea907ccf11464ff1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/332.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/333.json",
+      "bytes": 31945,
+      "sha256": "91be86a054a917a6f59bf1c3191cecf5661e69d1638787465dd12f1280451363",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/333.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/334.json",
+      "bytes": 28195,
+      "sha256": "067ef70658b28302afa3dce68b9e1d6628962bebadb11fe23d510b98f5c51dd6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/334.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/335.json",
+      "bytes": 25808,
+      "sha256": "9cd909fa14f1dbdb2d686fa65c97b1e1e82af6172d85c4c158629a1f9a7411cf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/335.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/336.json",
+      "bytes": 30041,
+      "sha256": "3aeed5a4138262be02c1fe5fef1ddccc83d8aa1fd589a21e1d66f8bfbf883699",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/336.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/337.json",
+      "bytes": 27352,
+      "sha256": "76917fc526b6e72b16b473742735e23f857dbd2b2a97f5d45e0f7b79ffcd8838",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/337.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/338.json",
+      "bytes": 28488,
+      "sha256": "b1ae7a4c8e71fcf81a4b9cb71146de0951408f04b5f9218ce4c412a7088c624b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/338.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/339.json",
+      "bytes": 26150,
+      "sha256": "0a23bef61ae567287ea5f6e0239483fb4474355a8213a515f0ffe3b9f89ece58",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/339.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/340.json",
+      "bytes": 29229,
+      "sha256": "09fc4427b2d3db6469d4298eb747d64736642cadbee9a7364dd8aa12b482f480",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/340.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/341.json",
+      "bytes": 25172,
+      "sha256": "e44f2fab631b327c63804ab60be08c601964fb15a26c364d13f44b047aa04664",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/341.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/342.json",
+      "bytes": 24777,
+      "sha256": "88c763576e75dd6214cb1805ffadaffd98465c8b602c0da6c252b6e99fd294ce",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/342.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/343.json",
+      "bytes": 31238,
+      "sha256": "a4b63b90978ec68b0e201077769fa4749aca99a6f3969e414600e66a7fa47252",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/343.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/344.json",
+      "bytes": 30966,
+      "sha256": "c3c926f2b0afa545611fe137f54df5c7ed3d04e37e228f8aaaaccf09768411eb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/344.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/345.json",
+      "bytes": 29743,
+      "sha256": "97f1073ebf1b292f6df011b6e222d9f336084d0a64390a425a23bf5a4f6712dc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/345.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/346.json",
+      "bytes": 29969,
+      "sha256": "bd99446c1801b014c18dd6f260d6182d69b2c88d8b924512cac36dad564be89b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/346.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/347.json",
+      "bytes": 28129,
+      "sha256": "244e8a278e49014370d030fa1a297309e86741a5594c69f6258e27f7eb4aa1e1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/347.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/348.json",
+      "bytes": 28509,
+      "sha256": "8ed92bf1c808fcf19f167fcc461aa2245bc74e0dd92ca56f1ec41cac2cc5a3d6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/348.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/349.json",
+      "bytes": 27849,
+      "sha256": "8f2e44dd0e97d19d78f2f73a058eb5aa68d3213537fb24d31708a926f8da8d15",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/349.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/350.json",
+      "bytes": 30632,
+      "sha256": "e79e849232a4c6380d2797a6797e1fba7b04d83a775c6e32dba19e30d0cc0c5e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/350.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/351.json",
+      "bytes": 31577,
+      "sha256": "12acc3292a78103eef3d157cd12c67a118b86b3a6a9210e5e27f490fcfb09e11",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/351.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/352.json",
+      "bytes": 29144,
+      "sha256": "1d3a757a3d894df95e16d472a06d25480baa4a8c6f0bb443e238a933b99d12ce",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/352.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/353.json",
+      "bytes": 29345,
+      "sha256": "488a35e869796ab34beeb0f221838b913a0e477b3ca7d8ac8a3901e31e0384b7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/353.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/354.json",
+      "bytes": 31181,
+      "sha256": "fc3e657ecc1ca423ee25c446d0a21980fc18a940dceb7ca4960db92dbb413635",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/354.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/355.json",
+      "bytes": 33229,
+      "sha256": "237d514a02cd3253c9b38613715ebe2f0d8dc61bb2cbbb8a1ea13fd771ff280d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/355.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/356.json",
+      "bytes": 32088,
+      "sha256": "d05428010e3e9054f4c4dd35d8c23e149e071a41ecca3e794efc3a190e7813e6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/356.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/357.json",
+      "bytes": 29123,
+      "sha256": "a4e9f7070efbb72e4094c9755ef7b061ee28aec7647690b53b2d6ae24df2859e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/357.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/358.json",
+      "bytes": 26091,
+      "sha256": "c3c565df48eca79212368a9c4cbb5580c997ebac40ba0d404ed8c7bcd83fe710",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/358.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/359.json",
+      "bytes": 25733,
+      "sha256": "4c17c9066059495753a33e4131e4edef6d2c216f89a2987a4d20f14443ba0976",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/359.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/360.json",
+      "bytes": 27357,
+      "sha256": "37eb904ac3a5f1438668a938f54aa707ef985b4fc836f3d2b51e456d5dacb879",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/360.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/361.json",
+      "bytes": 26687,
+      "sha256": "405d629656bd2b01c8fa22a5b6209b31a20ba56f5de1b2585c9a62b16c62f4f4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/361.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/362.json",
+      "bytes": 28000,
+      "sha256": "01369bfc2769b2f6f9e10db889ed3f0be5cefb78e0e308950d39b59cc83b9e01",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/362.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/363.json",
+      "bytes": 26419,
+      "sha256": "a48b206dd260f39435c2075400140c639ed3272ab82a6067ebe164c50812ba5e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/363.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/364.json",
+      "bytes": 29190,
+      "sha256": "ead7e08ba1ac5acc5a2fc161e40e43477cdab7c3e54aa8e666918e00f0e9c7e3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/364.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/365.json",
+      "bytes": 28335,
+      "sha256": "1e7cc4e191e59db61c2b635104cf690d6f7ae38c8d0219af4c8a003c7e37979c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/365.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/366.json",
+      "bytes": 25021,
+      "sha256": "28b9eb54d5f17c2712b08d67eed624c7cd4a42d003233d98350b7d15fc75f985",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/366.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/367.json",
+      "bytes": 28751,
+      "sha256": "fd0e733875ee48d0f393633bc3a56220748a3cf0e7771062ff2011ef76d01067",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/367.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/368.json",
+      "bytes": 29150,
+      "sha256": "5780f0dc99d588cebb924c6ddf2c21d9f9aa03831c15f19ff11440bb43a2cb05",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/368.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/369.json",
+      "bytes": 30027,
+      "sha256": "0105f373f0e54afc5b792e5e73d81244d6bd9f71e2033be3b4f2690d815286b1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/369.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/370.json",
+      "bytes": 27796,
+      "sha256": "fac76f17c1f407665d2ff41bb8da84e6e5ce2b2205b73a1a855d50a3b8f99e38",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/370.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/371.json",
+      "bytes": 30643,
+      "sha256": "e0d0127e209675f3138791634a9a4a51f57d8ec453f307f7b4ee3a8372d80f2d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/371.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/372.json",
+      "bytes": 29973,
+      "sha256": "c4c102a246d7db60f80dbda7e1e551e5fda55a32d1a261c65e2592adaf840f23",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/372.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/373.json",
+      "bytes": 28948,
+      "sha256": "3eb85149cf1382eaa10d7ab0d2e3e2b04664244a80ec1c9b25ef831959434389",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/373.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/374.json",
+      "bytes": 30341,
+      "sha256": "3f4af487f6f4dc1bb10b78dfcf99588a22d626f54c8599a14d7e6ba157b2a9c6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/374.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/375.json",
+      "bytes": 28499,
+      "sha256": "601205b79ef255b7c9188419e0edf886a5013cf32b41aabc1cb6d7e0818fc376",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/375.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/376.json",
+      "bytes": 26553,
+      "sha256": "b0bcf2f1f7de13bd62246fea813abbdefd47aa357801f5c55facfd17ad593faa",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/376.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/377.json",
+      "bytes": 30004,
+      "sha256": "8cf6753f1a5e9162e071d850c67663e8440e48a3e35eb18e1dc7bffa9c871fe4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/377.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/378.json",
+      "bytes": 29074,
+      "sha256": "2b37107e69cd4a3b7bf457850c3989e45e7bf117ab470b6cad97fa7cbccf771d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/378.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/379.json",
+      "bytes": 29549,
+      "sha256": "728f1004d0172248acf6405f7ee368f0a4f7528e344036c5deecdad56290a361",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/379.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/380.json",
+      "bytes": 34304,
+      "sha256": "6022ebbe1feca285247213eb2c8cefadad9f36d268a236b9d729328257c72fb2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/380.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/381.json",
+      "bytes": 25364,
+      "sha256": "aeacb22eb21ba0e09b2ea1a979c6b2b2decd555652bfd585656271d0c687d5e4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/381.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/382.json",
+      "bytes": 27335,
+      "sha256": "dc2255e5c8e07add4ef333adba0e83e172720230a4a886b51a6ac5a059a6c174",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/382.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/383.json",
+      "bytes": 30424,
+      "sha256": "8e4f5672dfb0044d82007c6f92b82f951b4d5fcc3b3c322fae4ab2a4abc4cf3a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/383.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/384.json",
+      "bytes": 31064,
+      "sha256": "72a2eeec6003ee42c8ea77a314e089b6976eaf09792224a3b68260de13a93c00",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/384.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/385.json",
+      "bytes": 24657,
+      "sha256": "b50de2aa000ffeb2edc58b271720c51c96fc016134d67a3c9620f2462c7112ce",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/385.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/386.json",
+      "bytes": 27156,
+      "sha256": "c9e7fccd9547ccf71adf329f39a10af862049facb475eec3f9d19743939bc948",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/386.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/387.json",
+      "bytes": 31680,
+      "sha256": "74ab1e1025a3ce6bf22619754369f8b2454064938eace03362e346954c4cd09b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/387.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/388.json",
+      "bytes": 28717,
+      "sha256": "2a409d2b9eb1bc895ce024bd21cb76702a486dbbb6ff62ed95a8401c942660a0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/388.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/389.json",
+      "bytes": 27978,
+      "sha256": "247bdc4fca425334b0b1c4272d99d5d3db292e99ef3f6f18f89ac575163cb18c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/389.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/390.json",
+      "bytes": 26354,
+      "sha256": "16e19340aa428896ef3f1cc030991ae520e470f042925ba15507a84c17b40407",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/390.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/391.json",
+      "bytes": 28593,
+      "sha256": "388df103c8d407a30558d70a33dc0cbb15f8521c5eaaa205c18a34f9f44cf76e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/391.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/392.json",
+      "bytes": 28967,
+      "sha256": "280f1c83cd7ba5d07563dbc02b71a7b29fad4c7d1a91ba6bbd5dd74bfe5cc2d9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/392.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/393.json",
+      "bytes": 29114,
+      "sha256": "e08e65c78694895d6806ad3e6689b596632f0d314a82e4438f58825b72cfdf63",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/393.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/394.json",
+      "bytes": 29005,
+      "sha256": "741c0112684295359794d3a5138a9386e237f6564a57acbf6ed9ad18d72fb6e7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/394.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/395.json",
+      "bytes": 30204,
+      "sha256": "ad3d61a22b4dcca86cd8c7a1e1f7bc9eefb25b51f2a9cf81d8ceb794e854d24c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/395.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/396.json",
+      "bytes": 26371,
+      "sha256": "66edddac409496f6d15286a937dc948f6c287ad05fcc3193428aed145e6fd2de",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/396.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/397.json",
+      "bytes": 27574,
+      "sha256": "905a9a0ea1178d653c5f435ad9355ff21f1f77fb16571f7ee1c5098a65c231fc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/397.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/398.json",
+      "bytes": 28145,
+      "sha256": "0eab2c8f7497122227e0d27fe3624079510d0266f1a9eefbf77477e6cd8fa25c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/398.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/399.json",
+      "bytes": 26347,
+      "sha256": "67b697142e2674f2a5221c04bd910f0e0162d9f554e3b750f096d6266e556deb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/399.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/400.json",
+      "bytes": 24990,
+      "sha256": "262b3c69a6357c3de27f3742c2c6478eef0f63c19a3791afa360d9ee1ae5b215",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/400.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/401.json",
+      "bytes": 24860,
+      "sha256": "fd9edd844f870db9da84ce04b5eed1632131ca0b0f0ebdeade3c374ae30a84f8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/401.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/402.json",
+      "bytes": 26890,
+      "sha256": "3f4d46da78fa3c58ef05069ad62b2c70fa3d2f79c5fc9d8e12e4cf000ff0bf25",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/402.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/403.json",
+      "bytes": 29045,
+      "sha256": "d20702aec435628045c7bb14b77035fb817a04d56c68f25f60ba58f998f2f34d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/403.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/404.json",
+      "bytes": 24133,
+      "sha256": "64fd2821de228cdb1dd7fa897a8af34fb465681f6d7999d76b88760aa057bbba",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/404.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/405.json",
+      "bytes": 27657,
+      "sha256": "44a67da58f07d1e24f9f22480afbfee26a38afa28c62425bb85de532de2dabd0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/405.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/406.json",
+      "bytes": 26418,
+      "sha256": "c1714c8a088c93f732d25f8f70a5aae4f834121a40b6fe31b2a08f91c73f9feb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/406.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/407.json",
+      "bytes": 27830,
+      "sha256": "58a3314121b7e730c447ce76f7708f160952f620f6852bb55f42c24cacf5e36c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/407.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/408.json",
+      "bytes": 30474,
+      "sha256": "f3f8b12d3bdad68c26a0899718a053d7a5cdb9e51bc5654bd43f06c8b012f0b1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/408.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/409.json",
+      "bytes": 31110,
+      "sha256": "e53a45d6784d4ddba64941dffd72f71b5681dc36d5d2b5a9bbe65b9e80ada76e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/409.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/410.json",
+      "bytes": 29539,
+      "sha256": "89ad98595dd1c6da8747a82573edb230ac19f90740541fc2471820c295f1b0b4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/410.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/411.json",
+      "bytes": 25359,
+      "sha256": "ee44cf286bc767fc30214cbe3d45a7507390ddb450b482989ee8786e7a5be535",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/411.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/412.json",
+      "bytes": 31237,
+      "sha256": "02f35b7a7b5f2d9f1a99284848225fb750cb0815c5715f07f587c5f9a70540e4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/412.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/413.json",
+      "bytes": 31330,
+      "sha256": "101c4c11b28eedbd25f89c5794bf7f0fa07b7e4e77b1f3e1c913bf708179fe67",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/413.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/414.json",
+      "bytes": 29862,
+      "sha256": "264ff2e2236009bd4fe5746ed77db771d43dc0715ab2336d97bbf66f51398471",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/414.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/415.json",
+      "bytes": 27914,
+      "sha256": "beac955e29026cad21d7301da2bde08d6ba177ba076791b2a4e0f218056e6783",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/415.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/416.json",
+      "bytes": 27983,
+      "sha256": "82d67c2d64e409408ef6965fa7675de7c6ed1ed13f3633909d7a26f7515e5cd9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/416.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/417.json",
+      "bytes": 25481,
+      "sha256": "bedaa2b8161de9fbf093f3203de8b2e2d76fd76f4cc337567a39256b66140add",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/417.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/418.json",
+      "bytes": 25877,
+      "sha256": "a2a850bc0810499efb09f40d83352c8a8f2b1e3786024afda92e334435574538",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/418.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/419.json",
+      "bytes": 29670,
+      "sha256": "798ebb1f05bbcde545a77303869b96b5bc47d3136f547fe7c44342e8d6fef224",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/419.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/420.json",
+      "bytes": 31819,
+      "sha256": "3cfff112f1202ab181b023f963ac921085e38209809a4ddeb62c0025bbfb29c9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/420.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/421.json",
+      "bytes": 27883,
+      "sha256": "64915f7c690e980027b4f6bc66ae2ce1fc5dafaaf5ac88a087f42920f60d9c76",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/421.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/422.json",
+      "bytes": 24092,
+      "sha256": "41a9b0ae1f000698248d07496a15013294447f291f00e1eb45e9bb166b59b80c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/422.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/423.json",
+      "bytes": 31972,
+      "sha256": "e20b9badda8276d1074ee92c8657310f03f051c8d27b3c869c1da537ac5f938f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/423.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/424.json",
+      "bytes": 27869,
+      "sha256": "21dbe63b04f3ca8dab4245b9957e344860ba4237583be29f88102c5efc99c993",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/424.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/425.json",
+      "bytes": 30291,
+      "sha256": "dbabf244a1135824a56f1ec6eb8e2f2d19b6845183133ee67329a69223273264",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/425.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/426.json",
+      "bytes": 28578,
+      "sha256": "1f82eba2d1301d153fa7eaa224ac1c2a62b42832e6deae5eb8f408d739337de0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/426.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/427.json",
+      "bytes": 29011,
+      "sha256": "680f2e0081556bfbe2468871c20b44cf60f411cfcf8795750081a71fdd5c39e1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/427.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/428.json",
+      "bytes": 25734,
+      "sha256": "a1027ea67f40f4f009f6655a93f1aa183a477256c15bba8687ac6f952b6ee621",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/428.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/429.json",
+      "bytes": 30795,
+      "sha256": "f35c586ed1a05231f5d9bb00689b5402ed37283f4ad130f3ae6ceadab08998a7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/429.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/430.json",
+      "bytes": 29872,
+      "sha256": "f6b1ab52ba267f5016dbed3e68ae6f8a22e68efd76f3e9dee264b4aaef12ee3b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/430.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/431.json",
+      "bytes": 28746,
+      "sha256": "f78e28178ec5b7169a25c9e237b9212fdb6d11c09d7e95a57b67e60565da0b1d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/431.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/432.json",
+      "bytes": 30020,
+      "sha256": "f3d4e7ac8b83cf59b7c3be4a3b1920b19da1fe3c5d2f4a0829d341dddac4206f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/432.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/433.json",
+      "bytes": 31978,
+      "sha256": "3266bcd7a250932b098fc386ce354a5101e982312c6b13ac854c9917830de3c7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/433.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/434.json",
+      "bytes": 28136,
+      "sha256": "6c4e2aa9b239bd0bc8bdc4b9f5af27084fb4b68da0b2ba8b7601899de26f74bf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/434.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/435.json",
+      "bytes": 32754,
+      "sha256": "8305c1e438f52237fa84df9127399faadeb43deff209d43b34b66e5173e3dc46",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/435.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/436.json",
+      "bytes": 28440,
+      "sha256": "ae3b08c595bf4033e7e766345b5ec5ea802e00f64e3cf153ac3f9016184807b3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/436.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/437.json",
+      "bytes": 28130,
+      "sha256": "7158a8983fb3301f43dd1ff451fb7c22fecef2f7cf4dcd5bd063c5f57cdb6e73",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/437.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/438.json",
+      "bytes": 28204,
+      "sha256": "7e5bf01708c9415bc3a0ab4fba98de8a6f418503a7892afb9494e29438ae93f4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/438.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/439.json",
+      "bytes": 32813,
+      "sha256": "dcf8639590ed830a1dffb0349ac112177c1ff74c1f192100cdd43075307874f4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/439.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/440.json",
+      "bytes": 23761,
+      "sha256": "78c6ff69b3121d413201e80f1c7e4d3e03d74256f7626e444673b6a1639b1537",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/440.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/441.json",
+      "bytes": 28381,
+      "sha256": "b5573907563800cbf0fa1cb84cb12288e8bdb70e5076c2ea5e6c002f181ef184",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/441.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/442.json",
+      "bytes": 28299,
+      "sha256": "f82db650142175b578a2e0ff38ce9b473d68f884d593d5588ffa86caf0ed8be9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/442.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/443.json",
+      "bytes": 30203,
+      "sha256": "d5e2058d4457795d6479f75bfb40836d9f553ad26ec630ddeaa8c3c586c26f78",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/443.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/444.json",
+      "bytes": 27097,
+      "sha256": "5e67f5a2b1b0f7f0bd21bbba8a85fc57d2a2bb5f4001506f96f59c344dafb505",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/444.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/445.json",
+      "bytes": 26597,
+      "sha256": "1583803bbb3f45122a1ae14a2a493cc60ce3c42e7a8bcc7589bef71d74dab390",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/445.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/446.json",
+      "bytes": 27772,
+      "sha256": "d7c919c49291ac9f3b65367b4d65a023a29d259a6e7916f184908a8b5d7a77e9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/446.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/447.json",
+      "bytes": 29751,
+      "sha256": "b703c720f99a6831fa71c655b18f8ef7fe90625552f72f547ee4ea7cf37ca97f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/447.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/448.json",
+      "bytes": 27441,
+      "sha256": "b8eed0bf60d81dac9f715cad69d56bf769a5613b46a8ee6093aeb9be32b2a39e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/448.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/449.json",
+      "bytes": 29710,
+      "sha256": "16fc7ee356dc357d4d521b15ad0a2eb30134f726f35784b688bc68bc92dc4da2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/449.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/450.json",
+      "bytes": 24766,
+      "sha256": "e5fece1c1d979e4a9ef5ff89177b88984e5c2c540ab480d9575f5df70104bb2f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/450.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/451.json",
+      "bytes": 26469,
+      "sha256": "dcc67332feb60e57799222c8eb9c7314f7852a08525f872934d979d257e14570",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/451.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/452.json",
+      "bytes": 27338,
+      "sha256": "48d7cc3da9343d888ee5f45198a484a2a79171431668240c057ee52fba421d03",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/452.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/453.json",
+      "bytes": 29635,
+      "sha256": "89382f01a77fb8d239cd76c263ffbd5d66d1116c367732a498fd657cb9669f6c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/453.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/454.json",
+      "bytes": 31800,
+      "sha256": "4bbb25099a50aaaa326bce7c28f445c9dd24a45d96554941591a1a4544397856",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/454.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/455.json",
+      "bytes": 30636,
+      "sha256": "63fecabc8ac6bfa84b4182a959c8f459f85408c393dcefd9b181c82f9b4ddc1e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/455.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/456.json",
+      "bytes": 29541,
+      "sha256": "05dca494c345ae8f77a0e15e3f37825443e6b9f30e89ae2c7b5ca03e8bff9dfe",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/456.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/457.json",
+      "bytes": 32170,
+      "sha256": "e1e6d3a48141174d505c8d6a6f99bc4a08674694c9d12c1fa40050377845d491",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/457.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/458.json",
+      "bytes": 25640,
+      "sha256": "0a8ca1d7866df6816e6cd84efa3242a674566ec114259193f7163b7f3ec4a872",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/458.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/459.json",
+      "bytes": 31528,
+      "sha256": "c409d5f4f63983dca97fddd518ef025cc73106c64aa7bcfb1e22fb3c883ff9ab",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/459.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/460.json",
+      "bytes": 32661,
+      "sha256": "ac8b1a552a8e6efe14094cd19292eec5ff331a80034177ac0229c517913a242e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/460.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/461.json",
+      "bytes": 30021,
+      "sha256": "af84355c018b297f117694276c419e4dd5a55c37d5c36d94a60b87a97079789c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/461.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/462.json",
+      "bytes": 26869,
+      "sha256": "04ed55cd4c973f641bb86bcb84363c34a8ef14194c84ed2f35a5647954cc450e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/462.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/463.json",
+      "bytes": 28161,
+      "sha256": "54c8fdc75b8ef0028ac15cf807ddf26013684a572130f24bccbf5ba8db6756dc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/463.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/464.json",
+      "bytes": 29558,
+      "sha256": "888de808b29fab3e42fcfb046f3e887b891f716e127b7bf5fd44d0648d052e6a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/464.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/465.json",
+      "bytes": 26609,
+      "sha256": "54b4db7c5f3932235eef106e0c6e92aee399d457150c2c4d397d623055818418",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/465.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/466.json",
+      "bytes": 27699,
+      "sha256": "e161cf28b195af5bb17d0c794f07956fff4a10fb21cd2aac17d5ce8de32639e3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/466.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/467.json",
+      "bytes": 24221,
+      "sha256": "a3a67180429c305eb2283929d5555c8f70a44fc95df16a29a64a32dfa82309d6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/467.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/468.json",
+      "bytes": 27376,
+      "sha256": "354ccae502fa09129d75df51be988d46b4ce561370b3c2366b9399677b41f7d0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/468.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/469.json",
+      "bytes": 27305,
+      "sha256": "021eac237d68186ebbfb3c4611d574a4015e43355b5cb837acd098f61e408de7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/469.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/470.json",
+      "bytes": 30281,
+      "sha256": "87154aac056e6d4c056d69ecbc44adc27b06a9057c788b278773e1b90c39885f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/470.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/471.json",
+      "bytes": 27552,
+      "sha256": "6bfae7ce0073482bb01f42bfc9167a90bdd4feef7d25c68d55070619799e42b5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/471.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/472.json",
+      "bytes": 27278,
+      "sha256": "7fefca24bb1dd0d26836ececdb13c98477a447f8cb4a066e92a435e12edb60c3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/472.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/473.json",
+      "bytes": 24468,
+      "sha256": "b4c45dcf853e96e994c562310845cc2edaba297bcb13d48ed9f7ba99e5463e17",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/473.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/474.json",
+      "bytes": 25863,
+      "sha256": "ec10ba40011f5ce9cc079030c1f91f7ad1ec015d32d323a812c546878eb108d5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/474.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/475.json",
+      "bytes": 28251,
+      "sha256": "8762c1366a0f5b87598217203f106cb9fa57feb10563ac26d79ae04905ea7694",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/475.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/476.json",
+      "bytes": 28101,
+      "sha256": "7d05f44338a2ac41f753971ae31eff7bbf44a6e5d4a8f5299fb78a6a4a976add",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/476.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/477.json",
+      "bytes": 25329,
+      "sha256": "3b8cabc56d42b5b38559dd55cf6f00e998c7b872693ff3e92ea0a602c3f94adc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/477.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/478.json",
+      "bytes": 29942,
+      "sha256": "ee9cfc163d969e5914ea4c92fb5abb3b9c8982f764a1d158ddf32cea92960b10",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/478.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/479.json",
+      "bytes": 29885,
+      "sha256": "42ef439ecde9d39b572ebc4d27eeb8d8359056d4f5c3b4934abbdc909766e6b5",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/479.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/480.json",
+      "bytes": 27048,
+      "sha256": "b5daca84980ce2a69439dc447a1f22dd765a5507378bc71966707eb1fb991cb7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/480.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/481.json",
+      "bytes": 31603,
+      "sha256": "432fccbdae37286521885c051e3b44a8770207d40eb1e52ebd96b44004629c74",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/481.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/482.json",
+      "bytes": 30699,
+      "sha256": "c14efb309915411088d6cd5163a2af9ab41f1dd1e63e8dad5cc77ee5057da2e8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/482.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/483.json",
+      "bytes": 26981,
+      "sha256": "f6d7e658bfb0d1e0a333a3de78ec2450fbd71b00baab800beecd4e5dfdf3402d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/483.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/484.json",
+      "bytes": 29480,
+      "sha256": "65157964b1b1326bd928130ea70fbce3cd1dc85966b53226442f18f755433535",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/484.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/485.json",
+      "bytes": 27784,
+      "sha256": "c53bc3b1aae752d6d7197b61983cd17f1564cba71616cf2e10826f9ddc63687b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/485.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/486.json",
+      "bytes": 31564,
+      "sha256": "8759c580a25e72dca1923d58fddc65ecf02d4fe6de714316aa3eec43433d41ea",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/486.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/487.json",
+      "bytes": 32200,
+      "sha256": "dd6e8299fe50ecedf756406e41911c09cafb810dcde66da05805a98e79f5ac6b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/487.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/488.json",
+      "bytes": 29906,
+      "sha256": "a4860ebfaa9a295cdd9f212a5829326169e2602543581a7fc7fe5efc57450880",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/488.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/489.json",
+      "bytes": 23605,
+      "sha256": "9f7109eca647ce8b902717cb1571285b8bd382b77b782d7d7ae9f819e4f6c7da",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/489.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/490.json",
+      "bytes": 28579,
+      "sha256": "de6304d20b20525052cd9f78f98a5fc1e36df477e43c52b2b37e78a9c54179ca",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/490.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/491.json",
+      "bytes": 29615,
+      "sha256": "8cb8e8934badb1537ea026884173218cd53ee5b50bff19597e4d313f35b18dbb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/491.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/492.json",
+      "bytes": 27849,
+      "sha256": "faec4ae56699e0874ba251f50d76feea2c1a310a9acca99ff52bf947b0216bd7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/492.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/493.json",
+      "bytes": 27988,
+      "sha256": "f7f33ded8f778e7b81c4054fbd46dd25a92a8ca7f016c6110bae4f63cf99f639",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/493.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/494.json",
+      "bytes": 26312,
+      "sha256": "16bb93b3a9994a393701738d5f817a4334e6a5761e8b98976fb97d4a36170269",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/494.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/495.json",
+      "bytes": 29037,
+      "sha256": "34c9a379c6107491bdc7ef6a5e70575d0c8ecd0adb1d9ec79529001d3e5040e1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/495.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/496.json",
+      "bytes": 24216,
+      "sha256": "0d4e30531237ccc9a3bc24a2cac5351dabbb4883706cc7d9a8dd884dc35b6339",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/496.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/497.json",
+      "bytes": 29007,
+      "sha256": "70908e9bc876d97f86611ba2e87e247f7fb4fc77c04c30a322db962b0911a49a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/497.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/498.json",
+      "bytes": 22849,
+      "sha256": "751c16f817c589d24a448e477434bd6559f7841a7f20dc3fc12445c817b8e87b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/498.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/499.json",
+      "bytes": 31052,
+      "sha256": "817e35d79f5cff8b64297b43f6e5c6f607c704db1b88b91a8f56e08fa196d2b0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/499.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/500.json",
+      "bytes": 28424,
+      "sha256": "a8fe08f45238a8cef4d114ceb52b1f92e414dd429ffc24de4d16c3cfb5637f5d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/500.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/501.json",
+      "bytes": 35035,
+      "sha256": "99ea5109fe7584bf2b43f82fa2be618d45b922920a7229bf0b9f2ba48d7cdb96",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/501.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/502.json",
+      "bytes": 27356,
+      "sha256": "3a3fd06a1372b5982a2d9b39df3d0aa67457456da9b4971502a49df9ca221d9d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/502.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/503.json",
+      "bytes": 32908,
+      "sha256": "4995f4cd1f5cfe7de94604e8e904fb7dc5496bdb809ea3b0f4935c85a7f07daf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/503.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/504.json",
+      "bytes": 31949,
+      "sha256": "58fe0f325c8c090987217d8b112ae8dcb6efbc527af687b7b2314df7502ccfaf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/504.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/505.json",
+      "bytes": 30974,
+      "sha256": "b74c637377c863326ca3b50c3826f979e45b794ef63ef503e76ad583bedd3856",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/505.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/506.json",
+      "bytes": 29605,
+      "sha256": "8d12f7d698315464e9a402ee9532596d7d5452f8636a577a9dba9e509807a8c0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/506.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/507.json",
+      "bytes": 31049,
+      "sha256": "9788ccf21ed7a8bb1d5942728f51ae1569e70d4595bd301256a697ea1d9df833",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/507.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/508.json",
+      "bytes": 33677,
+      "sha256": "70e7efc9db7b917ce90df7c82b348662909c3ab221f1c8caa54b830ba2b743c0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/508.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/509.json",
+      "bytes": 27205,
+      "sha256": "df972e8e8f80d93c8ba624e1b7ac90934db684802f744a25be985dacfd7b2e86",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/509.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/510.json",
+      "bytes": 28657,
+      "sha256": "420cae7ee987914a73a23c7c102bf6b33c25ff427887b96825f1fddef3fb708f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/510.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/511.json",
+      "bytes": 23860,
+      "sha256": "26cea0d33641cd6550f2547f12d168035adeec876f287e8ed71f136cef877276",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/511.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/512.json",
+      "bytes": 29944,
+      "sha256": "f1473a888f7e0a733d8df3cd6694c5a30cd51a81e73abf59cd6fdd392c834b57",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/512.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/513.json",
+      "bytes": 30215,
+      "sha256": "dce17ccb458d3538db04ce13f2d7417011d576d5642bd45812d6efc3b44e9c30",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/513.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/514.json",
+      "bytes": 28745,
+      "sha256": "d67ef33eccdc7a00c028e7335f641b43de64b16f3578475713d0c3bf4fece7d3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/514.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/515.json",
+      "bytes": 26226,
+      "sha256": "1d33222b13ff7a6c6d2abd985a9bb8e56f6fcefec81344f0b21d5aa935010dd9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/515.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/516.json",
+      "bytes": 31768,
+      "sha256": "1de9372cf75d001b69a861b1b1e54ecf07ae6fadcba536b95563d3ba5acc281e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/516.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/517.json",
+      "bytes": 31199,
+      "sha256": "b85d2859d1543559bffe5d382fe50267c10851bd68733308329cc54e85432d52",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/517.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/518.json",
+      "bytes": 26232,
+      "sha256": "402a021f8658287b4ac5edd54dc3c9f315b7382c1aa987ff6ed48428512e48e0",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/518.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/519.json",
+      "bytes": 32933,
+      "sha256": "696259f17f525a8179f7d7f2b46ac88f079b31a97d6e7b1d71c614abe3f29831",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/519.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/520.json",
+      "bytes": 24934,
+      "sha256": "c79419da2b0718a3ca93b23d7c9bc608aec452524faf0a859c69bb38bfc53d2c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/520.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/521.json",
+      "bytes": 29974,
+      "sha256": "8000ec857a4f45da2344fff0156c63bf26c79fa4f84bc30deada46e003bf1797",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/521.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/522.json",
+      "bytes": 31365,
+      "sha256": "d3ae86dc5c925308eb472003ad29dc3df1126f3ad87492b5620045b5d95c8f43",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/522.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/523.json",
+      "bytes": 24796,
+      "sha256": "41b9cab19c96ebbca3b2469029fa02cf88d29df492547fc88353720d95860938",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/523.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/524.json",
+      "bytes": 29011,
+      "sha256": "d2b0e7406830fb8bc9dcaea3d84c4d567c93b34d5313b7c5409570568636a1a3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/524.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/525.json",
+      "bytes": 29211,
+      "sha256": "06c3c4306b7ff3e7a684e683a084f52c8210b533f52c8295534f09b38431f72b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/525.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/526.json",
+      "bytes": 29530,
+      "sha256": "c68573860bba0710005d1357a32b33c290ca4a0a8c62ee07ef30c06c0ffc5ad1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/526.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/527.json",
+      "bytes": 32569,
+      "sha256": "a8bc7510dc245dc6a6e33f533711876dcacc0adb1c252950b9a357ee66ef8ffe",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/527.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/528.json",
+      "bytes": 23906,
+      "sha256": "f11a8ba3f76947fe47d0782a902ff83628f0913ea5e4251d43bb062f97c57fdd",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/528.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/529.json",
+      "bytes": 30461,
+      "sha256": "1e2f1f3afd841383c6712181438c9b38086208c6b179125416dafdf4d999a189",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/529.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/530.json",
+      "bytes": 30021,
+      "sha256": "13c1fe2125715929746a956e74162b1bb8254e357a8b457162a712e694f1ac70",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/530.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/531.json",
+      "bytes": 22184,
+      "sha256": "718d4d3f9bf47d54cf4e9414bfc9e68e4739a1a7e61f98d0334cdca7536683b1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/531.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/532.json",
+      "bytes": 28296,
+      "sha256": "e156b4965b80997310741ee5e660ac26c5635f990cfe02e9b80c7c13dbc12312",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/532.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/533.json",
+      "bytes": 27181,
+      "sha256": "4156aec961c171c73a76c9000c285762b0302e94718cb86e2ec0404276980bd7",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/533.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/534.json",
+      "bytes": 20797,
+      "sha256": "9625d5db44a6c0afb64e1679055099add35d762ae2e8108dcc4485d924b58606",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/534.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/535.json",
+      "bytes": 27456,
+      "sha256": "8e800487c7d062b2f843a2dae1077eb46066f1e3c8327c621cb7b1fd32c7a405",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/535.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/536.json",
+      "bytes": 27592,
+      "sha256": "36f67d3a28a8c1fbd423672f6154abdc347f34b2c12a383d29bf338d2316f8bb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/536.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/537.json",
+      "bytes": 25019,
+      "sha256": "5652d2162e3f00e4d4e30fafb1937f91a23c884843c1a46189d55184a91e21c8",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/537.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/538.json",
+      "bytes": 32819,
+      "sha256": "0cda9a93d6686e1099e4496c228dd41405eb5ea253fda58c130fa0ae4ca64b14",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/538.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/539.json",
+      "bytes": 30838,
+      "sha256": "ebb2395982d381d02cab00d1b4bc9ee55e396fb2cc8fcdcc6f1316686f5045bc",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/539.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/540.json",
+      "bytes": 29363,
+      "sha256": "3e5a40953a626784123e99042c590a8f566ee9c8667c8426eb1d355d8b0bd303",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/540.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/541.json",
+      "bytes": 28157,
+      "sha256": "5981cd959e8e517da9448923a734211fb3b5b762c2bdda3d81644ea9dabba140",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/541.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/542.json",
+      "bytes": 26682,
+      "sha256": "58543dfeed0f34a750a7520ec204a3f02bedfb9046556b795a7920850f944109",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/542.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/543.json",
+      "bytes": 33084,
+      "sha256": "fd8863e5e36b5ce1f7b8c4310c8003b220f058e510a5ca16dbb36e2e67471b2d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/543.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/544.json",
+      "bytes": 32892,
+      "sha256": "b02dd89835a1d87dc7980a17aa4289216c5bc2e8de90b29051aa848cad3a8b50",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/544.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/545.json",
+      "bytes": 25679,
+      "sha256": "48c1a89b8f3341bb987e5a527e16022df21fd542cb8584b9c1357fd1b1ebb87d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/545.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/546.json",
+      "bytes": 29904,
+      "sha256": "da728ba53c7ed42e3551ba21d47ba56fab716ac57cd1c0555763fe0e64d77c3d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/546.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/547.json",
+      "bytes": 28709,
+      "sha256": "62ff67879af7358e1a354e80aa8cdd7ee2a01fab4a15307f84d86f8a23ca0c41",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/547.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/548.json",
+      "bytes": 25653,
+      "sha256": "227c75382358002b1c794e84697e2b6a1e2fa521663301a941025851e68f812f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/548.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/549.json",
+      "bytes": 30919,
+      "sha256": "780527f104b0c3dd7ca7770acc9ff250704a06fe1e62d97779dfc1837ea0930b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/549.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/550.json",
+      "bytes": 33789,
+      "sha256": "501b1541bddcdb09a14451b9e6995bd54caaad7beae745d6429f9ecf191ea69a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/550.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/551.json",
+      "bytes": 26076,
+      "sha256": "784496149585b588154fbad755727e3f59ca37aa32070864afcb6797f605425d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/551.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/552.json",
+      "bytes": 35225,
+      "sha256": "c6715d55594902807dfa7161293ee4b3ac462f90b0cf7d2c4529bd2de2fd007c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/552.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/553.json",
+      "bytes": 26023,
+      "sha256": "3379d55f354d2b6d1a4799401f4cf819fdd407706ab5b4133ae27d6a8e4ee28d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/553.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/554.json",
+      "bytes": 26423,
+      "sha256": "073ae73822beacf58cce70b3393c63454a3d157fdd298a1739e431d445ddcec1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/554.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/555.json",
+      "bytes": 26116,
+      "sha256": "9c5494c695e937dbbd7522c953dedd9886567164a5a9dff1ad5ff4e3c743afe9",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/555.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/556.json",
+      "bytes": 29812,
+      "sha256": "956bec75cadd132ba3fc74549fce28badf71aa3734c9d390068fa81068afa25f",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/556.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/557.json",
+      "bytes": 24051,
+      "sha256": "bb3aa84166b46b615b773fca50ed2bd01c60813a4bb43d8fe6cc1a0f5cfe323e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/557.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/558.json",
+      "bytes": 29259,
+      "sha256": "fc9205b2b45e1440641437c93a2ab93686be86bf4a4d3a0d57404ece676749c4",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/558.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/559.json",
+      "bytes": 33579,
+      "sha256": "46ffe970ba6d66068edd45a061957561c9a8a24ae747aeb998fb3290351f17f1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/559.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/560.json",
+      "bytes": 27664,
+      "sha256": "0af37c8f81c6ca77275ff85bb38d94012ff6d428409c970c4c225a04426143c6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/560.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/561.json",
+      "bytes": 27551,
+      "sha256": "4391cde44231a655c8ff67968478603d8c25b6d4a03bf49cbcdce782ff108859",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/561.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/562.json",
+      "bytes": 28507,
+      "sha256": "151cdbbde4f32cc9c8b713dd5509d6928cc565402b169ccf842d2147db74e186",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/562.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/563.json",
+      "bytes": 32475,
+      "sha256": "8067129ad0ff9dd165a3a2226eb64e3bedcec7ba719289604cf4be9f7a5e3d27",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/563.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/564.json",
+      "bytes": 26348,
+      "sha256": "707440abc5fa2780977a21ede97e94579e740865139bc366039bfe6111ea6c5e",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/564.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/565.json",
+      "bytes": 32701,
+      "sha256": "3cd199ba27704f54f07ddd23ba673b9b8272258a32feda3cd0a4cd982e883403",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/565.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/566.json",
+      "bytes": 26986,
+      "sha256": "c5752103fa7cfd4129adb200f114a10b1f0da09707a3510b1fbac139e8e52fbf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/566.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/567.json",
+      "bytes": 31763,
+      "sha256": "91a4187aa93b85af5eaa010546f10b57554ae1dcf997014f5e2078c58b833260",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/567.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/568.json",
+      "bytes": 25443,
+      "sha256": "7c25a7219872bc247a50d3ddf615380a13b42cc4c752b6fa8beced19aaad3354",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/568.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/569.json",
+      "bytes": 31414,
+      "sha256": "1b65b572ff98ac4d3d9ab5e434221c701716b69114df5b2faa0dae1b4fad80f6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/569.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/570.json",
+      "bytes": 26424,
+      "sha256": "9c8690d58372f73568da1cce88fba96f9e5521695a412bcca9131d881ac51008",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/570.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/571.json",
+      "bytes": 30781,
+      "sha256": "8fb0ccddcae56f590319e3d8b44aab8455d89ae9e17bf5f6b0b44dd484f1e19c",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/571.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/572.json",
+      "bytes": 28998,
+      "sha256": "f45299ed173febe7ebbba84c8f9982e4d838214aeefe4cff5a6d01c76666d9bf",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/572.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/573.json",
+      "bytes": 31994,
+      "sha256": "e2e51ff3e5ada3a233241f9fbf0e0792af64c5d608cb43a783a06fafef46a9ce",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/573.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/574.json",
+      "bytes": 26673,
+      "sha256": "a5a1952d8b65edeea2b6a9762b490c05d87bc157cc9a06a81f56f6527a9a05ee",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/574.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/575.json",
+      "bytes": 29072,
+      "sha256": "99527cb1777fc224ef0cded8bb880aafd335c74b87d6e24e632a5b13695c4319",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/575.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/576.json",
+      "bytes": 33410,
+      "sha256": "8f579b9b84a960a71b89a20170a29360e7fb60600e7bb73b941531054fad6838",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/576.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/577.json",
+      "bytes": 27627,
+      "sha256": "c3f02df670514094ec791b1f2a0b75b695303ee01e4f192d1ff9f99ff4791f68",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/577.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/578.json",
+      "bytes": 27476,
+      "sha256": "d31969a906701348faef7b367fb173c9662d4613fe5883abb2bfd86dd1ae13d1",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/578.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/579.json",
+      "bytes": 32711,
+      "sha256": "b8a63f4486fec714325587ebc2667b3f19152c136b18136bb167679103b307d6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/579.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/580.json",
+      "bytes": 24071,
+      "sha256": "7e68ffbc4b42e159b38c78da2b95b45014c057674ec4960760491b9cc53b00e2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/580.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/581.json",
+      "bytes": 28759,
+      "sha256": "87202e0c54e415ccf9250a53ac2956d5a4c923b084fa7cae0a5d3d2e89b0a5f3",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/581.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/582.json",
+      "bytes": 23721,
+      "sha256": "324cf763719703527c4b05fd92204f976718f81f7fae3b9d3f16609fec47c106",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/582.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/583.json",
+      "bytes": 26583,
+      "sha256": "df3ff834747e118be3188127d79d804544c049072d1699140248af4e8d08049b",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/583.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/584.json",
+      "bytes": 28074,
+      "sha256": "cf30b58a682ba61d733f1aaf2d2c2d4a2d98fcb0bf38f3166b6bbc3e14681ed6",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/584.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/585.json",
+      "bytes": 27917,
+      "sha256": "ca2017688ffe8203999746567f8586eec4677b48283c4c965656d1b39d9a6b7d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/585.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/586.json",
+      "bytes": 24120,
+      "sha256": "78eaa070e22ccaa1e89579344e0ff20722f26fd34dde6768b4a81ad272346212",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/586.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/587.json",
+      "bytes": 21565,
+      "sha256": "4ece78b759ffd3bb0f8409242d1d2c1f166203a22fd826e61e24608f832ac32d",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/587.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/588.json",
+      "bytes": 30036,
+      "sha256": "fe4bfcf66f714d91ff5c6c98b9430e76f955f66f0d4700759655700fc7ecf271",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/588.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/589.json",
+      "bytes": 24743,
+      "sha256": "ed4a7713f6957fc20d8f9403c81b5c42f30d8edb79a1f53ea66b089e8e6e3ecb",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/589.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/590.json",
+      "bytes": 25918,
+      "sha256": "2797350e7211af7b5fef4533959efe5d8ac3ff49440b6fee3d87fac0caef8c23",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/590.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/591.json",
+      "bytes": 21397,
+      "sha256": "397fe100625b7fe7991e19502068ab374299546bad091a028b6d56738efa1210",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/591.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/592.json",
+      "bytes": 24442,
+      "sha256": "160fb613758e0d99f27cc60dcd57baa1acb98f399b67153cb752753f624aa187",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/592.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/593.json",
+      "bytes": 25508,
+      "sha256": "3eae19555dbb41a13b187099251e9809852182b3902db621c689b5f09b6cb297",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/593.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/594.json",
+      "bytes": 23830,
+      "sha256": "bb7c304c97033b5e410d4d2e1ccce56cb257ae5acf65f1fa0508ccc8c2d79903",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/594.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/595.json",
+      "bytes": 20336,
+      "sha256": "228937af188e8068d3589fb6181ab277246bcdc632b165260fc2c5b3c82b1ca2",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/595.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/596.json",
+      "bytes": 20107,
+      "sha256": "05fdffaca0e5302a6524588f1fdd422a28fe31b8e8099a318256ba6053c97a81",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/596.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/597.json",
+      "bytes": 21516,
+      "sha256": "293091207d6427eed8cf2c11ad5906c6d4e737b9b36a8fcea0b449f01671e8da",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/597.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/598.json",
+      "bytes": 22994,
+      "sha256": "e190b940760692b97e1fa1a3a980086191595b7fe51b58a0d6367c184d388150",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/598.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/599.json",
+      "bytes": 20775,
+      "sha256": "6622e08bc198318f47343100cd24a9edad9a64d0ffd85ef5d2bd7069ca2a4103",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/599.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/600.json",
+      "bytes": 20366,
+      "sha256": "36263bd5c28d919e1a9063b2ad10348b86e23c0167a930be7a4aba42cd0aa26a",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/600.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/601.json",
+      "bytes": 15781,
+      "sha256": "1cf1300cbad36f3c481d0005c29f5cf887b71b3871ebd3e19177e0b60ce20200",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/601.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/602.json",
+      "bytes": 11923,
+      "sha256": "ea159d6b917bac830490ad77ae0e37a8b34468d00f8f6a1e28c95e01e3755021",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/602.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/603.json",
+      "bytes": 14711,
+      "sha256": "2b613ada0f620c5eced9a60a5eef137a5d941340f8a2b5f425336ecb0e5d6440",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/603.json",
+      "contentModified": false
+    },
+    {
+      "name": "index/by-page/604.json",
+      "bytes": 12275,
+      "sha256": "eb3aa3eda4fa0e866d4d01180de8fd1bdc888d7c9d205b837d3f887604f55d37",
+      "sourceURL": "https://cdn.quran.ws/svg/elements/v1.1.1/index/by-page/604.json",
+      "contentModified": false
+    }
+  ],
+  "scope": "604 app-used sidecars only; other manifest assets not copied here"
+}

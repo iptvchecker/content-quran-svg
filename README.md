@@ -89,3 +89,10 @@ Everything about using it lives on the site. This repository is the source.
 Issues and pull requests are welcome here. Everything that is not about *changing* this repository is on the site.
 
 Issues and pull requests are welcome here. Everything that is not about *changing* this repository is on the site.
+
+## Mirrored pinned word sidecars
+
+`mirrored-elements/v1.1.1/` retains 604 original app-used Hafs/KFGQPC publisher
+word sidecars, verified against the original release manifest. Its own README,
+source metadata, original notice/license and checksums accompany the files.
+The existing SVG edition data and original upstream history remain intact.
