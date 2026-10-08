@@ -1,3 +1,15 @@
+# Mirror purpose
+
+This repository is a faithful mirror of [quran-ws/quran-svg](https://github.com/quran-ws/quran-svg) for reliable reuse of Islamic resources by iQuran. The upstream content is preserved without alteration. We do not claim ownership, make the content proprietary, or replace its original licenses. Original authorship, attribution, notices and publisher terms remain in force. This statement describes our purpose; it grants no additional rights.
+
+## Updates and retention
+
+Fetch upstream changes into a separate review branch. Compare content, provenance, licensing and checksums before publishing a new version. Never automatically delete mirrored content because it disappeared from upstream. Retain existing immutable releases and the revisions used by installed apps. Any removal requires a deliberate maintainer decision; existing publisher obligations remain in force.
+
+Only mirror documentation is added here. The original upstream README follows below. App integration and its pinned content revision are unchanged.
+
+---
+
 <div align="center">
 
 <img src=".github/banner.svg" alt="Quran SVG — Pages & Assets, Stable" width="820">
@@ -73,5 +85,7 @@ Everything about using it lives on the site. This repository is the source.
 | `mushafs/` | the artwork and the ayah polygon layer, one directory per muṣḥaf |
 | `tools/` | how the polygon layer is built and audited |
 | `docs/` | [how the polygon layer ships](docs/FORMAT.md) — stacking order, the two `polygon` shapes, the opening spread · [getting the files](docs/GETTING-THE-FILES.md) — what to fetch, and what not to clone · [where the artwork came from](docs/PROVENANCE.md) — the source bundle and digest behind each muṣḥaf |
+
+Issues and pull requests are welcome here. Everything that is not about *changing* this repository is on the site.
 
 Issues and pull requests are welcome here. Everything that is not about *changing* this repository is on the site.
