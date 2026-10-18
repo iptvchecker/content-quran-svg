@@ -96,3 +96,5 @@ The existing SVG edition data and original upstream history remain intact.
 ## Mirror documentation update — October 18, 2026
 
 Simplified the mirror description to focus on content, sources and file layout. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
+
+Metadata documentation update — October 18, 2026: clarified the `scope` description in `mirrored-elements/v1.1.1/SOURCE.json`. Original content, source URLs, file entries, byte counts and checksum values are unchanged.
