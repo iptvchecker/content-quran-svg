@@ -1,10 +1,6 @@
-# Mirror purpose
+# Quran SVG mirror
 
-This repository is a faithful mirror of [quran-ws/quran-svg](https://github.com/quran-ws/quran-svg) for reliable reuse of Islamic resources by iQuranHolder (حامل القرآن). The upstream content is preserved without alteration, including original authorship, attribution, notices and licenses.
-
-## Updates and retention
-
-Fetch upstream changes into a separate review branch. Compare content, provenance, licensing and checksums before publishing a new version. Never automatically delete mirrored content because it disappeared from upstream. Retain existing immutable releases and the revisions used by installed apps. Any removal requires a deliberate maintainer decision; existing publisher obligations remain in force.
+Original Mushaf SVG artwork and coordinate metadata from [quran-ws/quran-svg](https://github.com/quran-ws/quran-svg). Source attribution, original notices and licenses are retained.
 
 The original upstream README follows below.
 
@@ -92,11 +88,11 @@ Issues and pull requests are welcome here. Everything that is not about *changin
 
 ## Mirrored pinned word sidecars
 
-`mirrored-elements/v1.1.1/` retains 604 original app-used Hafs/KFGQPC publisher
+`mirrored-elements/v1.1.1/` retains 604 original Hafs/KFGQPC publisher
 word sidecars, verified against the original release manifest. Its own README,
 source metadata, original notice/license and checksums accompany the files.
 The existing SVG edition data and original upstream history remain intact.
 
 ## Mirror documentation update — October 18, 2026
 
-Simplified the mirror description to focus on content, sources and file layout. Corrected the app name where needed. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
+Simplified the mirror description to focus on content, sources and file layout. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
