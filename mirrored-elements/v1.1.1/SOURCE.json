@@ -4232,5 +4232,5 @@
       "contentModified": false
     }
   ],
-  "scope": "604 app-used sidecars only; other manifest assets not copied here"
+  "scope": "604 word-coordinate sidecars; other manifest assets not copied here"
 }
