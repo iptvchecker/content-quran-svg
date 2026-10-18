@@ -10,7 +10,4 @@ Publisher: https://github.com/quran-ws/quran-svg-elements
 Original release CDN: https://cdn.quran.ws/svg/elements/v1.1.1/
 The upstream manifest describes other assets not copied in this sidecar folder.
 
-These Islamic resources are mirrored for reuse, without ownership claims,
-content edits, or restriction beyond the original publishers' conditions.
-Keep this pinned release even if upstream changes or removes it. Updates belong
-in a new version folder and review branch; no automatic deletion or app changes.
+Documentation update — October 18, 2026: simplified the mirror description. Original sidecar files, metadata, notices and license are unchanged.
